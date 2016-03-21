@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="18" failures="0" disabled="0" errors="0" timestamp="2016-03-21T10:28:07" time="0.127" name="AllTests">
+  <testsuite name="L2GlobalProjectionOperatorTest/0" tests="3" failures="0" disabled="0" errors="0" time="0.004">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;1, 1, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2GlobalProjectionOperatorTest/0" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;1, 1, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2GlobalProjectionOperatorTest/0" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;1, 1, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="L2GlobalProjectionOperatorTest/0" />
+  </testsuite>
+  <testsuite name="L2GlobalProjectionOperatorTest/1" tests="3" failures="0" disabled="0" errors="0" time="0.007">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;2, 2, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0" classname="L2GlobalProjectionOperatorTest/1" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;2, 2, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0" classname="L2GlobalProjectionOperatorTest/1" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;2, 2, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.006" classname="L2GlobalProjectionOperatorTest/1" />
+  </testsuite>
+  <testsuite name="L2GlobalProjectionOperatorTest/2" tests="3" failures="0" disabled="0" errors="0" time="0.051">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;3, 3, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2GlobalProjectionOperatorTest/2" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;3, 3, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0" classname="L2GlobalProjectionOperatorTest/2" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;3, 3, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.05" classname="L2GlobalProjectionOperatorTest/2" />
+  </testsuite>
+  <testsuite name="L2GlobalProjectionOperatorTest/3" tests="3" failures="0" disabled="0" errors="0" time="0.003">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;1&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2GlobalProjectionOperatorTest/3" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;1&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0" classname="L2GlobalProjectionOperatorTest/3" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;1&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="L2GlobalProjectionOperatorTest/3" />
+  </testsuite>
+  <testsuite name="L2GlobalProjectionOperatorTest/4" tests="3" failures="0" disabled="0" errors="0" time="0.007">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;2&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2GlobalProjectionOperatorTest/4" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;2&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0" classname="L2GlobalProjectionOperatorTest/4" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;2&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.006" classname="L2GlobalProjectionOperatorTest/4" />
+  </testsuite>
+  <testsuite name="L2GlobalProjectionOperatorTest/5" tests="3" failures="0" disabled="0" errors="0" time="0.055">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;3&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="L2GlobalProjectionOperatorTest/5" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;3&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2GlobalProjectionOperatorTest/5" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;3&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.052" classname="L2GlobalProjectionOperatorTest/5" />
+  </testsuite>
+</testsuites>
