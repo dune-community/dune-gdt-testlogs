@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="24" failures="0" disabled="0" errors="0" timestamp="2016-03-23T13:41:37" time="0.192" name="AllTests">
+  <testsuite name="LagrangeProjectionOperatorTest/0" tests="4" failures="0" disabled="0" errors="0" time="0.038">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.027" classname="LagrangeProjectionOperatorTest/0" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="LagrangeProjectionOperatorTest/0" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.006" classname="LagrangeProjectionOperatorTest/0" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.004" classname="LagrangeProjectionOperatorTest/0" />
+  </testsuite>
+  <testsuite name="LagrangeProjectionOperatorTest/1" tests="4" failures="0" disabled="0" errors="0" time="0.014">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.006" classname="LagrangeProjectionOperatorTest/1" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="LagrangeProjectionOperatorTest/1" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.003" classname="LagrangeProjectionOperatorTest/1" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.004" classname="LagrangeProjectionOperatorTest/1" />
+  </testsuite>
+  <testsuite name="LagrangeProjectionOperatorTest/2" tests="4" failures="0" disabled="0" errors="0" time="0.058">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.012" classname="LagrangeProjectionOperatorTest/2" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="LagrangeProjectionOperatorTest/2" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.006" classname="LagrangeProjectionOperatorTest/2" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.039" classname="LagrangeProjectionOperatorTest/2" />
+  </testsuite>
+  <testsuite name="LagrangeProjectionOperatorTest/3" tests="4" failures="0" disabled="0" errors="0" time="0.009">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;1&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.007" classname="LagrangeProjectionOperatorTest/3" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;1&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="LagrangeProjectionOperatorTest/3" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;1&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0" classname="LagrangeProjectionOperatorTest/3" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;1&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="LagrangeProjectionOperatorTest/3" />
+  </testsuite>
+  <testsuite name="LagrangeProjectionOperatorTest/4" tests="4" failures="0" disabled="0" errors="0" time="0.013">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;2&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.005" classname="LagrangeProjectionOperatorTest/4" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;2&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0" classname="LagrangeProjectionOperatorTest/4" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;2&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="LagrangeProjectionOperatorTest/4" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;2&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.005" classname="LagrangeProjectionOperatorTest/4" />
+  </testsuite>
+  <testsuite name="LagrangeProjectionOperatorTest/5" tests="4" failures="0" disabled="0" errors="0" time="0.06">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;3&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.007" classname="LagrangeProjectionOperatorTest/5" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;3&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="LagrangeProjectionOperatorTest/5" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;3&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.008" classname="LagrangeProjectionOperatorTest/5" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::CG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;3&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.043" classname="LagrangeProjectionOperatorTest/5" />
+  </testsuite>
+</testsuites>
