@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="18" failures="0" disabled="0" errors="0" timestamp="2016-03-23T17:21:08" time="0.093" name="AllTests">
+  <testsuite name="L2LocalProlongationOperatorTest/0" tests="3" failures="0" disabled="0" errors="0" time="0.003">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::SGrid&lt;1, 1, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="L2LocalProlongationOperatorTest/0" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::SGrid&lt;1, 1, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0" classname="L2LocalProlongationOperatorTest/0" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::SGrid&lt;1, 1, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2LocalProlongationOperatorTest/0" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest/1" tests="3" failures="0" disabled="0" errors="0" time="0.005">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::SGrid&lt;2, 2, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2LocalProlongationOperatorTest/1" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::SGrid&lt;2, 2, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2LocalProlongationOperatorTest/1" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::SGrid&lt;2, 2, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.003" classname="L2LocalProlongationOperatorTest/1" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest/2" tests="3" failures="0" disabled="0" errors="0" time="0.031">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::SGrid&lt;3, 3, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.004" classname="L2LocalProlongationOperatorTest/2" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::SGrid&lt;3, 3, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.003" classname="L2LocalProlongationOperatorTest/2" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::SGrid&lt;3, 3, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.024" classname="L2LocalProlongationOperatorTest/2" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest/3" tests="3" failures="0" disabled="0" errors="0" time="0.003">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;1&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2LocalProlongationOperatorTest/3" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;1&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2LocalProlongationOperatorTest/3" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;1&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2LocalProlongationOperatorTest/3" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest/4" tests="3" failures="0" disabled="0" errors="0" time="0.008">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;2&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2LocalProlongationOperatorTest/4" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;2&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="L2LocalProlongationOperatorTest/4" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;2&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.005" classname="L2LocalProlongationOperatorTest/4" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest/5" tests="3" failures="0" disabled="0" errors="0" time="0.043">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;3&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.006" classname="L2LocalProlongationOperatorTest/5" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;3&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.005" classname="L2LocalProlongationOperatorTest/5" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::FV::Default&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;3&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.032" classname="L2LocalProlongationOperatorTest/5" />
+  </testsuite>
+</testsuites>
