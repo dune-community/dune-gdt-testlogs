@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="18" failures="0" disabled="0" errors="0" timestamp="2016-03-23T07:48:57" time="48.761" name="AllTests">
-  <testsuite name="LaplaceMatrixOperatorTest/0" tests="6" failures="0" disabled="0" errors="0" time="0.011">
+<testsuites tests="18" failures="0" disabled="0" errors="0" timestamp="2016-03-23T10:10:58" time="48.461" name="AllTests">
+  <testsuite name="LaplaceMatrixOperatorTest/0" tests="6" failures="0" disabled="0" errors="0" time="0.01">
     <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="LaplaceMatrixOperatorTest/0" />
     <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="LaplaceMatrixOperatorTest/0" />
-    <testcase name="is_matrix_operator" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="LaplaceMatrixOperatorTest/0" />
+    <testcase name="is_matrix_operator" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="LaplaceMatrixOperatorTest/0" />
     <testcase name="correct_for_constant_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="LaplaceMatrixOperatorTest/0" />
     <testcase name="correct_for_linear_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="LaplaceMatrixOperatorTest/0" />
     <testcase name="correct_for_quadratic_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="LaplaceMatrixOperatorTest/0" />
   </testsuite>
-  <testsuite name="LaplaceMatrixOperatorTest/1" tests="6" failures="0" disabled="0" errors="0" time="0.421">
-    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.026" classname="LaplaceMatrixOperatorTest/1" />
-    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.013" classname="LaplaceMatrixOperatorTest/1" />
-    <testcase name="is_matrix_operator" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.045" classname="LaplaceMatrixOperatorTest/1" />
-    <testcase name="correct_for_constant_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.109" classname="LaplaceMatrixOperatorTest/1" />
-    <testcase name="correct_for_linear_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.115" classname="LaplaceMatrixOperatorTest/1" />
-    <testcase name="correct_for_quadratic_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.112" classname="LaplaceMatrixOperatorTest/1" />
+  <testsuite name="LaplaceMatrixOperatorTest/1" tests="6" failures="0" disabled="0" errors="0" time="0.408">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.027" classname="LaplaceMatrixOperatorTest/1" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.014" classname="LaplaceMatrixOperatorTest/1" />
+    <testcase name="is_matrix_operator" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.044" classname="LaplaceMatrixOperatorTest/1" />
+    <testcase name="correct_for_constant_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.107" classname="LaplaceMatrixOperatorTest/1" />
+    <testcase name="correct_for_linear_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.105" classname="LaplaceMatrixOperatorTest/1" />
+    <testcase name="correct_for_quadratic_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.11" classname="LaplaceMatrixOperatorTest/1" />
   </testsuite>
-  <testsuite name="LaplaceMatrixOperatorTest/2" tests="6" failures="0" disabled="0" errors="0" time="48.328">
-    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="1.585" classname="LaplaceMatrixOperatorTest/2" />
-    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.846" classname="LaplaceMatrixOperatorTest/2" />
-    <testcase name="is_matrix_operator" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="5.749" classname="LaplaceMatrixOperatorTest/2" />
-    <testcase name="correct_for_constant_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="13.406" classname="LaplaceMatrixOperatorTest/2" />
-    <testcase name="correct_for_linear_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="13.373" classname="LaplaceMatrixOperatorTest/2" />
-    <testcase name="correct_for_quadratic_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="13.368" classname="LaplaceMatrixOperatorTest/2" />
+  <testsuite name="LaplaceMatrixOperatorTest/2" tests="6" failures="0" disabled="0" errors="0" time="48.043">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="1.584" classname="LaplaceMatrixOperatorTest/2" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="0.83" classname="LaplaceMatrixOperatorTest/2" />
+    <testcase name="is_matrix_operator" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="5.858" classname="LaplaceMatrixOperatorTest/2" />
+    <testcase name="correct_for_constant_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="13.218" classname="LaplaceMatrixOperatorTest/2" />
+    <testcase name="correct_for_linear_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="13.229" classname="LaplaceMatrixOperatorTest/2" />
+    <testcase name="correct_for_quadratic_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 3, double, 1ul, 1ul&gt;" status="run" time="13.324" classname="LaplaceMatrixOperatorTest/2" />
   </testsuite>
 </testsuites>
