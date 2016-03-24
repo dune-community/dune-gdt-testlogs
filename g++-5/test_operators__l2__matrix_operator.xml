@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="18" failures="0" disabled="0" errors="0" timestamp="2016-03-24T15:20:08" time="1.454" name="AllTests">
+  <testsuite name="L2MatrixOperatorTest/0" tests="6" failures="0" disabled="0" errors="0" time="0.006">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="L2MatrixOperatorTest/0" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0" classname="L2MatrixOperatorTest/0" />
+    <testcase name="is_matrix_operator" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2MatrixOperatorTest/0" />
+    <testcase name="correct_for_constant_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2MatrixOperatorTest/0" />
+    <testcase name="correct_for_linear_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2MatrixOperatorTest/0" />
+    <testcase name="correct_for_quadratic_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2MatrixOperatorTest/0" />
+  </testsuite>
+  <testsuite name="L2MatrixOperatorTest/1" tests="6" failures="0" disabled="0" errors="0" time="0.042">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.006" classname="L2MatrixOperatorTest/1" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.004" classname="L2MatrixOperatorTest/1" />
+    <testcase name="is_matrix_operator" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.003" classname="L2MatrixOperatorTest/1" />
+    <testcase name="correct_for_constant_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.009" classname="L2MatrixOperatorTest/1" />
+    <testcase name="correct_for_linear_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.009" classname="L2MatrixOperatorTest/1" />
+    <testcase name="correct_for_quadratic_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.009" classname="L2MatrixOperatorTest/1" />
+  </testsuite>
+  <testsuite name="L2MatrixOperatorTest/2" tests="6" failures="0" disabled="0" errors="0" time="1.406">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.126" classname="L2MatrixOperatorTest/2" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.07" classname="L2MatrixOperatorTest/2" />
+    <testcase name="is_matrix_operator" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.115" classname="L2MatrixOperatorTest/2" />
+    <testcase name="correct_for_constant_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.343" classname="L2MatrixOperatorTest/2" />
+    <testcase name="correct_for_linear_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.384" classname="L2MatrixOperatorTest/2" />
+    <testcase name="correct_for_quadratic_arguments" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 2, double, 1ul, 1ul&gt;" status="run" time="0.368" classname="L2MatrixOperatorTest/2" />
+  </testsuite>
+</testsuites>
