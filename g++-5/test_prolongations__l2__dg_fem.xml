@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="40" failures="0" disabled="0" errors="0" timestamp="2016-03-30T08:54:49" time="2.153" name="AllTests">
+  <testsuite name="L2ProlongationOperatorTest/0" tests="4" failures="0" disabled="0" errors="0" time="0.044">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.039" classname="L2ProlongationOperatorTest/0" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2ProlongationOperatorTest/0" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.003" classname="L2ProlongationOperatorTest/0" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2ProlongationOperatorTest/0" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest/1" tests="4" failures="0" disabled="0" errors="0" time="0.03">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.004" classname="L2ProlongationOperatorTest/1" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="L2ProlongationOperatorTest/1" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.014" classname="L2ProlongationOperatorTest/1" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.01" classname="L2ProlongationOperatorTest/1" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest/2" tests="4" failures="0" disabled="0" errors="0" time="0.273">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.013" classname="L2ProlongationOperatorTest/2" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.012" classname="L2ProlongationOperatorTest/2" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.137" classname="L2ProlongationOperatorTest/2" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.111" classname="L2ProlongationOperatorTest/2" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest/3" tests="4" failures="0" disabled="0" errors="0" time="0.009">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;1&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.004" classname="L2ProlongationOperatorTest/3" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;1&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.001" classname="L2ProlongationOperatorTest/3" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;1&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="L2ProlongationOperatorTest/3" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;1&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="L2ProlongationOperatorTest/3" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest/4" tests="4" failures="0" disabled="0" errors="0" time="0.033">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;2&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.004" classname="L2ProlongationOperatorTest/4" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;2&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.003" classname="L2ProlongationOperatorTest/4" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;2&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.016" classname="L2ProlongationOperatorTest/4" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;2&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.01" classname="L2ProlongationOperatorTest/4" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest/5" tests="4" failures="0" disabled="0" errors="0" time="0.294">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;3&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.015" classname="L2ProlongationOperatorTest/5" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;3&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.014" classname="L2ProlongationOperatorTest/5" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;3&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.144" classname="L2ProlongationOperatorTest/5" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;3&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.121" classname="L2ProlongationOperatorTest/5" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest/6" tests="4" failures="0" disabled="0" errors="0" time="0.042">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.017" classname="L2ProlongationOperatorTest/6" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.003" classname="L2ProlongationOperatorTest/6" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.014" classname="L2ProlongationOperatorTest/6" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.008" classname="L2ProlongationOperatorTest/6" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest/7" tests="4" failures="0" disabled="0" errors="0" time="1.091">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.038" classname="L2ProlongationOperatorTest/7" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.03" classname="L2ProlongationOperatorTest/7" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.713" classname="L2ProlongationOperatorTest/7" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.31" classname="L2ProlongationOperatorTest/7" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest/8" tests="4" failures="0" disabled="0" errors="0" time="0.033">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.005" classname="L2ProlongationOperatorTest/8" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="L2ProlongationOperatorTest/8" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.016" classname="L2ProlongationOperatorTest/8" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.009" classname="L2ProlongationOperatorTest/8" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest/9" tests="4" failures="0" disabled="0" errors="0" time="0.304">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.014" classname="L2ProlongationOperatorTest/9" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.012" classname="L2ProlongationOperatorTest/9" />
+    <testcase name="free_function_callable" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.165" classname="L2ProlongationOperatorTest/9" />
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.113" classname="L2ProlongationOperatorTest/9" />
+  </testsuite>
+</testsuites>
