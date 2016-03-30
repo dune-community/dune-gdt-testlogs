@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="10" failures="0" disabled="0" errors="0" timestamp="2016-03-30T19:01:15" time="1.797" name="AllTests">
+  <testsuite name="ProlongationTest/0" tests="1" failures="0" disabled="0" errors="0" time="0.06">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.06" classname="ProlongationTest/0" />
+  </testsuite>
+  <testsuite name="ProlongationTest/1" tests="1" failures="0" disabled="0" errors="0" time="0.027">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.027" classname="ProlongationTest/1" />
+  </testsuite>
+  <testsuite name="ProlongationTest/2" tests="1" failures="0" disabled="0" errors="0" time="0.27">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.27" classname="ProlongationTest/2" />
+  </testsuite>
+  <testsuite name="ProlongationTest/3" tests="1" failures="0" disabled="0" errors="0" time="0.014">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;1&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.014" classname="ProlongationTest/3" />
+  </testsuite>
+  <testsuite name="ProlongationTest/4" tests="1" failures="0" disabled="0" errors="0" time="0.026">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;2&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.026" classname="ProlongationTest/4" />
+  </testsuite>
+  <testsuite name="ProlongationTest/5" tests="1" failures="0" disabled="0" errors="0" time="0.285">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::YaspGrid&lt;3&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.285" classname="ProlongationTest/5" />
+  </testsuite>
+  <testsuite name="ProlongationTest/6" tests="1" failures="0" disabled="0" errors="0" time="0.046">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::No_Comm&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.046" classname="ProlongationTest/6" />
+  </testsuite>
+  <testsuite name="ProlongationTest/7" tests="1" failures="0" disabled="0" errors="0" time="0.735">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::No_Comm&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.735" classname="ProlongationTest/7" />
+  </testsuite>
+  <testsuite name="ProlongationTest/8" tests="1" failures="0" disabled="0" errors="0" time="0.034">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::No_Comm&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.034" classname="ProlongationTest/8" />
+  </testsuite>
+  <testsuite name="ProlongationTest/9" tests="1" failures="0" disabled="0" errors="0" time="0.299">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LevelGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::No_Comm&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.299" classname="ProlongationTest/9" />
+  </testsuite>
+</testsuites>
