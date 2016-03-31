@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="5" failures="3" disabled="0" errors="0" timestamp="2016-03-31T13:50:15" time="225.833" name="AllTests">
+  <testsuite name="linearelliptic_CG_discretization/0" tests="1" failures="0" disabled="0" errors="0" time="3.545">
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid" type_param="Dune::GDT::LinearElliptic::AO2013TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="3.545" classname="linearelliptic_CG_discretization/0" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization/1" tests="1" failures="1" disabled="0" errors="0" time="6.894">
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid" type_param="Dune::GDT::LinearElliptic::ER2007TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="6.894" classname="linearelliptic_CG_discretization/1">
+      <failure message="/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102&#x0A;      Expected: expected_coefficient&#x0A;      Which is: 435&#x0A;To be equal to: actual_coefficient&#x0A;      Which is: 459&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: H1_semi&#x0A;          actual_results[0]   = 0.45887231337944245&#x0A;          expected_results[0] = 0.435" type=""><![CDATA[/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102
+      Expected: expected_coefficient
+      Which is: 435
+To be equal to: actual_coefficient
+      Which is: 459
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: H1_semi
+          actual_results[0]   = 0.45887231337944245
+          expected_results[0] = 0.435]]></failure>
+      <failure message="/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102&#x0A;      Expected: expected_coefficient&#x0A;      Which is: 435&#x0A;To be equal to: actual_coefficient&#x0A;      Which is: 459&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: H1_semi&#x0A;          actual_results[1]   = 0.45894563782437786&#x0A;          expected_results[1] = 0.435" type=""><![CDATA[/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102
+      Expected: expected_coefficient
+      Which is: 435
+To be equal to: actual_coefficient
+      Which is: 459
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: H1_semi
+          actual_results[1]   = 0.45894563782437786
+          expected_results[1] = 0.435]]></failure>
+      <failure message="/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102&#x0A;      Expected: expected_coefficient&#x0A;      Which is: 435&#x0A;To be equal to: actual_coefficient&#x0A;      Which is: 459&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: energy&#x0A;          actual_results[0]   = 0.45887231337944245&#x0A;          expected_results[0] = 0.435" type=""><![CDATA[/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102
+      Expected: expected_coefficient
+      Which is: 435
+To be equal to: actual_coefficient
+      Which is: 459
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: energy
+          actual_results[0]   = 0.45887231337944245
+          expected_results[0] = 0.435]]></failure>
+      <failure message="/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102&#x0A;      Expected: expected_coefficient&#x0A;      Which is: 435&#x0A;To be equal to: actual_coefficient&#x0A;      Which is: 459&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: energy&#x0A;          actual_results[1]   = 0.45894563782437786&#x0A;          expected_results[1] = 0.435" type=""><![CDATA[/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102
+      Expected: expected_coefficient
+      Which is: 435
+To be equal to: actual_coefficient
+      Which is: 459
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: energy
+          actual_results[1]   = 0.45894563782437786
+          expected_results[1] = 0.435]]></failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization/2" tests="1" failures="1" disabled="0" errors="0" time="5.019">
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid" type_param="Dune::GDT::LinearElliptic::ESV2007TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="5.019" classname="linearelliptic_CG_discretization/2">
+      <failure message="/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102&#x0A;      Expected: expected_coefficient&#x0A;      Which is: 114&#x0A;To be equal to: actual_coefficient&#x0A;      Which is: 115&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: H1_semi&#x0A;          actual_results[0]   = 0.1153861652638548&#x0A;          expected_results[0] = 0.114" type=""><![CDATA[/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102
+      Expected: expected_coefficient
+      Which is: 114
+To be equal to: actual_coefficient
+      Which is: 115
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: H1_semi
+          actual_results[0]   = 0.1153861652638548
+          expected_results[0] = 0.114]]></failure>
+      <failure message="/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102&#x0A;      Expected: expected_coefficient&#x0A;      Which is: 568&#x0A;To be equal to: actual_coefficient&#x0A;      Which is: 595&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: H1_semi&#x0A;          actual_results[1]   = 0.059474596596359147&#x0A;          expected_results[1] = 0.056800000000000003" type=""><![CDATA[/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102
+      Expected: expected_coefficient
+      Which is: 568
+To be equal to: actual_coefficient
+      Which is: 595
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: H1_semi
+          actual_results[1]   = 0.059474596596359147
+          expected_results[1] = 0.056800000000000003]]></failure>
+      <failure message="/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102&#x0A;      Expected: expected_coefficient&#x0A;      Which is: 114&#x0A;To be equal to: actual_coefficient&#x0A;      Which is: 115&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: energy&#x0A;          actual_results[0]   = 0.1153861652638548&#x0A;          expected_results[0] = 0.114" type=""><![CDATA[/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102
+      Expected: expected_coefficient
+      Which is: 114
+To be equal to: actual_coefficient
+      Which is: 115
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: energy
+          actual_results[0]   = 0.1153861652638548
+          expected_results[0] = 0.114]]></failure>
+      <failure message="/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102&#x0A;      Expected: expected_coefficient&#x0A;      Which is: 568&#x0A;To be equal to: actual_coefficient&#x0A;      Which is: 595&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: energy&#x0A;          actual_results[1]   = 0.059474596596359147&#x0A;          expected_results[1] = 0.056800000000000003" type=""><![CDATA[/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102
+      Expected: expected_coefficient
+      Which is: 568
+To be equal to: actual_coefficient
+      Which is: 595
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: energy
+          actual_results[1]   = 0.059474596596359147
+          expected_results[1] = 0.056800000000000003]]></failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization/3" tests="1" failures="1" disabled="0" errors="0" time="0.41">
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid" type_param="Dune::GDT::LinearElliptic::MixedBoundaryTestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="0.41" classname="linearelliptic_CG_discretization/3">
+      <failure message="/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102&#x0A;      Expected: expected_coefficient&#x0A;      Which is: 167&#x0A;To be equal to: actual_coefficient&#x0A;      Which is: 166&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: H1_semi&#x0A;          actual_results[1]   = 0.1661756914037763&#x0A;          expected_results[1] = 0.16700000000000001" type=""><![CDATA[/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102
+      Expected: expected_coefficient
+      Which is: 167
+To be equal to: actual_coefficient
+      Which is: 166
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: H1_semi
+          actual_results[1]   = 0.1661756914037763
+          expected_results[1] = 0.16700000000000001]]></failure>
+      <failure message="/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102&#x0A;      Expected: expected_coefficient&#x0A;      Which is: 167&#x0A;To be equal to: actual_coefficient&#x0A;      Which is: 166&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: energy&#x0A;          actual_results[1]   = 0.1661756914037763&#x0A;          expected_results[1] = 0.16700000000000001" type=""><![CDATA[/home/travis/src/dune-stuff/dune/stuff/test/common.cxx:102
+      Expected: expected_coefficient
+      Which is: 167
+To be equal to: actual_coefficient
+      Which is: 166
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: energy
+          actual_results[1]   = 0.1661756914037763
+          expected_results[1] = 0.16700000000000001]]></failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization/4" tests="1" failures="0" disabled="0" errors="0" time="209.965">
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid" type_param="Dune::GDT::LinearElliptic::Spe10Model1TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="209.965" classname="linearelliptic_CG_discretization/4" />
+  </testsuite>
+</testsuites>
