@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="5" failures="0" disabled="0" errors="0" timestamp="2016-04-03T11:29:59" time="238.976" name="AllTests">
+  <testsuite name="linearelliptic_CG_discretization/0" tests="1" failures="0" disabled="0" errors="0" time="3.472">
+    <testcase name="eoc_study_using_pdelab_and_istl_and_sgrid" type_param="Dune::GDT::LinearElliptic::AO2013TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="3.472" classname="linearelliptic_CG_discretization/0" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization/1" tests="1" failures="0" disabled="0" errors="0" time="7.152">
+    <testcase name="eoc_study_using_pdelab_and_istl_and_sgrid" type_param="Dune::GDT::LinearElliptic::ER2007TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="7.152" classname="linearelliptic_CG_discretization/1" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization/2" tests="1" failures="0" disabled="0" errors="0" time="5.211">
+    <testcase name="eoc_study_using_pdelab_and_istl_and_sgrid" type_param="Dune::GDT::LinearElliptic::ESV2007TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="5.211" classname="linearelliptic_CG_discretization/2" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization/3" tests="1" failures="0" disabled="0" errors="0" time="0.423">
+    <testcase name="eoc_study_using_pdelab_and_istl_and_sgrid" type_param="Dune::GDT::LinearElliptic::MixedBoundaryTestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="0.423" classname="linearelliptic_CG_discretization/3" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization/4" tests="1" failures="0" disabled="0" errors="0" time="222.717">
+    <testcase name="eoc_study_using_pdelab_and_istl_and_sgrid" type_param="Dune::GDT::LinearElliptic::Spe10Model1TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="222.717" classname="linearelliptic_CG_discretization/4" />
+  </testsuite>
+</testsuites>
