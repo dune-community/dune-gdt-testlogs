@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="8" failures="0" disabled="0" errors="0" timestamp="2016-04-03T11:29:25" time="0.329" name="AllTests">
+  <testsuite name="ProjectionTest/0" tests="1" failures="0" disabled="0" errors="0" time="0.033">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;1, 1, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.033" classname="ProjectionTest/0" />
+  </testsuite>
+  <testsuite name="ProjectionTest/1" tests="1" failures="0" disabled="0" errors="0" time="0.021">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;2, 2, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.021" classname="ProjectionTest/1" />
+  </testsuite>
+  <testsuite name="ProjectionTest/2" tests="1" failures="0" disabled="0" errors="0" time="0.056">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::SGrid&lt;3, 3, double&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.056" classname="ProjectionTest/2" />
+  </testsuite>
+  <testsuite name="ProjectionTest/3" tests="1" failures="0" disabled="0" errors="0" time="0.006">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;1&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.006" classname="ProjectionTest/3" />
+  </testsuite>
+  <testsuite name="ProjectionTest/4" tests="1" failures="0" disabled="0" errors="0" time="0.02">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;2&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.019" classname="ProjectionTest/4" />
+  </testsuite>
+  <testsuite name="ProjectionTest/5" tests="1" failures="0" disabled="0" errors="0" time="0.072">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;3&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.072" classname="ProjectionTest/5" />
+  </testsuite>
+  <testsuite name="ProjectionTest/6" tests="1" failures="0" disabled="0" errors="0" time="0.044">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::No_Comm&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.044" classname="ProjectionTest/6" />
+  </testsuite>
+  <testsuite name="ProjectionTest/7" tests="1" failures="0" disabled="0" errors="0" time="0.077">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::PdelabBased&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::No_Comm&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.077" classname="ProjectionTest/7" />
+  </testsuite>
+</testsuites>
