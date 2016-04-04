@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="8" failures="0" disabled="0" errors="0" timestamp="2016-04-04T13:11:48" time="137.293" name="AllTests">
+  <testsuite name="linearelliptic_SWIPDG_discretization/0" tests="2" failures="0" disabled="0" errors="0" time="28.482">
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid_order_1" type_param="Dune::GDT::LinearElliptic::AO2013TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="4.951" classname="linearelliptic_SWIPDG_discretization/0" />
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid_order_2" type_param="Dune::GDT::LinearElliptic::AO2013TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="23.531" classname="linearelliptic_SWIPDG_discretization/0" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretization/1" tests="2" failures="0" disabled="0" errors="0" time="55.833">
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid_order_1" type_param="Dune::GDT::LinearElliptic::ER2007TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="10.447" classname="linearelliptic_SWIPDG_discretization/1" />
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid_order_2" type_param="Dune::GDT::LinearElliptic::ER2007TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="45.386" classname="linearelliptic_SWIPDG_discretization/1" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretization/2" tests="2" failures="0" disabled="0" errors="0" time="50.768">
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid_order_1" type_param="Dune::GDT::LinearElliptic::ESV2007TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="8.368" classname="linearelliptic_SWIPDG_discretization/2" />
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid_order_2" type_param="Dune::GDT::LinearElliptic::ESV2007TestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="42.4" classname="linearelliptic_SWIPDG_discretization/2" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretization/3" tests="2" failures="0" disabled="0" errors="0" time="2.21">
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid_order_1" type_param="Dune::GDT::LinearElliptic::MixedBoundaryTestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="0.472" classname="linearelliptic_SWIPDG_discretization/3" />
+    <testcase name="eoc_study_using_pdelab_and_eigen_and_sgrid_order_2" type_param="Dune::GDT::LinearElliptic::MixedBoundaryTestCase&lt;Dune::SGrid&lt;2, 2, double&gt;, double, 1&gt;" status="run" time="1.738" classname="linearelliptic_SWIPDG_discretization/3" />
+  </testsuite>
+</testsuites>
