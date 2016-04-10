@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="10" failures="0" disabled="0" errors="0" timestamp="2016-04-10T12:25:54" time="0.292" name="AllTests">
+  <testsuite name="ProjectionTest/0" tests="1" failures="0" disabled="0" errors="0" time="0.002">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;1, 1, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="ProjectionTest/0" />
+  </testsuite>
+  <testsuite name="ProjectionTest/1" tests="1" failures="0" disabled="0" errors="0" time="0.006">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;2, 2, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.006" classname="ProjectionTest/1" />
+  </testsuite>
+  <testsuite name="ProjectionTest/2" tests="1" failures="0" disabled="0" errors="0" time="0.048">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::SGrid&lt;3, 3, double&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.048" classname="ProjectionTest/2" />
+  </testsuite>
+  <testsuite name="ProjectionTest/3" tests="1" failures="0" disabled="0" errors="0" time="0.002">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;1&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.002" classname="ProjectionTest/3" />
+  </testsuite>
+  <testsuite name="ProjectionTest/4" tests="1" failures="0" disabled="0" errors="0" time="0.006">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;2&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.006" classname="ProjectionTest/4" />
+  </testsuite>
+  <testsuite name="ProjectionTest/5" tests="1" failures="0" disabled="0" errors="0" time="0.052">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::YaspGrid&lt;3&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.052" classname="ProjectionTest/5" />
+  </testsuite>
+  <testsuite name="ProjectionTest/6" tests="1" failures="0" disabled="0" errors="0" time="0.008">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.008" classname="ProjectionTest/6" />
+  </testsuite>
+  <testsuite name="ProjectionTest/7" tests="1" failures="0" disabled="0" errors="0" time="0.116">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.116" classname="ProjectionTest/7" />
+  </testsuite>
+  <testsuite name="ProjectionTest/8" tests="1" failures="0" disabled="0" errors="0" time="0.005">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.005" classname="ProjectionTest/8" />
+  </testsuite>
+  <testsuite name="ProjectionTest/9" tests="1" failures="0" disabled="0" errors="0" time="0.047">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::Spaces::DG::FemBased&lt;Dune::Fem::LeafGridPart&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; &gt;, 1, double, 1ul, 1ul&gt;" status="run" time="0.047" classname="ProjectionTest/9" />
+  </testsuite>
+</testsuites>
