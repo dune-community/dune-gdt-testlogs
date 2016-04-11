@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="4" failures="0" disabled="0" errors="0" timestamp="2016-04-11T14:48:09" time="157.943" name="AllTests">
+  <testsuite name="hyperbolic_FV_discretization_godunov_adaptiveRK/0" tests="1" failures="0" disabled="0" errors="0" time="8.948">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::BurgersTestCase&lt;Dune::YaspGrid&lt;1&gt;, double, 1ul, 1ul&gt;" status="run" time="8.948" classname="hyperbolic_FV_discretization_godunov_adaptiveRK/0" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_godunov_adaptiveRK/1" tests="1" failures="0" disabled="0" errors="0" time="53.169">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::ShockTubeTestCase&lt;Dune::YaspGrid&lt;1&gt;, double&gt;" status="run" time="53.169" classname="hyperbolic_FV_discretization_godunov_adaptiveRK/1" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_godunov_adaptiveRK/2" tests="1" failures="0" disabled="0" errors="0" time="3.001">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::TransportTestCase&lt;Dune::YaspGrid&lt;1&gt;, double, 1ul, 1ul&gt;" status="run" time="3.001" classname="hyperbolic_FV_discretization_godunov_adaptiveRK/2" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_godunov_adaptiveRK/3" tests="1" failures="0" disabled="0" errors="0" time="92.825">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::TransportTestCase&lt;Dune::YaspGrid&lt;2&gt;, double, 1ul, 1ul&gt;" status="run" time="92.825" classname="hyperbolic_FV_discretization_godunov_adaptiveRK/3" />
+  </testsuite>
+</testsuites>
