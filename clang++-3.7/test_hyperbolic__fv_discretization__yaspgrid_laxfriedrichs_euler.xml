@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="4" failures="0" disabled="0" errors="0" timestamp="2016-04-14T17:54:52" time="37.42" name="AllTests">
+  <testsuite name="hyperbolic_FV_discretization_laxfriedrichs_euler/0" tests="1" failures="0" disabled="0" errors="0" time="0.657">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::BurgersTestCase&lt;Dune::YaspGrid&lt;1&gt;, double, 1ul, 1ul&gt;" status="run" time="0.657" classname="hyperbolic_FV_discretization_laxfriedrichs_euler/0" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_laxfriedrichs_euler/1" tests="1" failures="0" disabled="0" errors="0" time="0.859">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::ShockTubeTestCase&lt;Dune::YaspGrid&lt;1&gt;, double&gt;" status="run" time="0.858" classname="hyperbolic_FV_discretization_laxfriedrichs_euler/1" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_laxfriedrichs_euler/2" tests="1" failures="0" disabled="0" errors="0" time="0.762">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::TransportTestCase&lt;Dune::YaspGrid&lt;1&gt;, double, 1ul, 1ul&gt;" status="run" time="0.762" classname="hyperbolic_FV_discretization_laxfriedrichs_euler/2" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_laxfriedrichs_euler/3" tests="1" failures="0" disabled="0" errors="0" time="35.142">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::TransportTestCase&lt;Dune::YaspGrid&lt;2&gt;, double, 1ul, 1ul&gt;" status="run" time="35.142" classname="hyperbolic_FV_discretization_laxfriedrichs_euler/3" />
+  </testsuite>
+</testsuites>
