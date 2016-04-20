@@ -1,5 +1,6 @@
-BLD=--builddir=build --use-cmake --opts=config.opts/travis.make.debug
-BUILD_CMD=make -k -j 2
+BASEDIR=/home/travis/src
+BLD=--builddir=/home/travis/dune_build/ --use-cmake --opts=config.opts/travis.ninja
+BUILD_CMD=ninja -k 10000 -j 2
 CASHER_DIR=/home/travis/.casher
 CC=clang-3.7
 CI=true
@@ -7,10 +8,12 @@ COMPOSER_NO_INTERACTION=1
 CONTINUOUS_INTEGRATION=true
 CTEST_OUTPUT_ON_FAILURE=1
 CXX=clang++-3.7
-DBG=--builddir=build --use-cmake --opts=config.opts/travis.make.debug
-DCTL_ARGS=--builddir=build --use-cmake
+DBG=--builddir=/home/travis/dune_build/ --use-cmake --opts=config.opts/travis.ninja
+DCTL_ARGS=--builddir=/home/travis/dune_build/ --use-cmake
 DEBIAN_FRONTEND=noninteractive
-DUNE_BUILD_DIR=build
+DUNE_BUILD_DIR=/home/travis/dune_build/
+encrypted_95fb78800815_iv=4577b6f03de5ec5da8c6a317be7907ec
+encrypted_95fb78800815_key=748874aa3e48bdccddd769178756c167ac2ed0498b7e854ed9f29e2d16a8f8d3
 GEM_HOME=/home/travis/.rvm/gems/ruby-2.2.3
 GEM_PATH=/home/travis/.rvm/gems/ruby-2.2.3:/home/travis/.rvm/gems/ruby-2.2.3@global
 GIT_ASKPASS=echo
@@ -26,6 +29,7 @@ JRUBY_OPTS= --client -J-XX:+TieredCompilation -J-XX:TieredStopAtLevel=1 -Xcext.e
 LANG=en_US.UTF-8
 LC_ALL=en_US.UTF-8
 LC_CTYPE=en_US.UTF-8
+LD_LIBRARY_PATH=/home/travis/src/local/lib64:/home/travis/src/local/lib:
 LOGNAME=travis
 MAIL=/var/mail/travis
 MANPATH=/usr/local/clang-3.5.0/share/man:/usr/local/man:/usr/local/share/man:/usr/share/man
@@ -37,11 +41,12 @@ NVM_IOJS_ORG_MIRROR=https://iojs.org/dist
 NVM_NODEJS_ORG_MIRROR=https://nodejs.org/dist
 NVM_RC_VERSION=
 OLDPWD=/home/travis
-OPTS=config.opts/travis.make.release
-PATH=/usr/lib/ccache:/home/travis/bin:/home/travis/.local/bin:/home/travis/.rvm/gems/ruby-2.2.3/bin:/home/travis/.rvm/gems/ruby-2.2.3@global/bin:/home/travis/.rvm/rubies/ruby-2.2.3/bin:/home/travis/.pyenv/shims:/home/travis/.phpenv/shims:/home/travis/.php-build/bin:/home/travis/.local/bin:/home/travis/.pyenv/shims:/opt/pyenv/bin:/home/travis/.phpenv/shims:/home/travis/perl5/perlbrew/bin:./node_modules/.bin:/usr/local/clang-3.5.0/bin:/home/travis/.local/bin:/home/travis/.pyenv/shims:/opt/pyenv/bin:/home/travis/.phpenv/shims:./node_modules/.bin:/usr/local/clang-3.5.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/travis/.phpenv/bin:/home/travis/.phpenv/bin:/home/travis/.rvm/bin:/home/travis/.rvm/bin
+OPTS=config.opts/travis.ninja
+PATH=/usr/lib/ccache:/home/travis/src/local/bin:/home/travis/bin:/home/travis/.local/bin:/home/travis/.rvm/gems/ruby-2.2.3/bin:/home/travis/.rvm/gems/ruby-2.2.3@global/bin:/home/travis/.rvm/rubies/ruby-2.2.3/bin:/home/travis/.pyenv/shims:/home/travis/.phpenv/shims:/home/travis/.php-build/bin:/home/travis/.local/bin:/home/travis/.pyenv/shims:/opt/pyenv/bin:/home/travis/.phpenv/shims:/home/travis/perl5/perlbrew/bin:./node_modules/.bin:/usr/local/clang-3.5.0/bin:/home/travis/.local/bin:/home/travis/.pyenv/shims:/opt/pyenv/bin:/home/travis/.phpenv/shims:./node_modules/.bin:/usr/local/clang-3.5.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/travis/.phpenv/bin:/home/travis/.phpenv/bin:/home/travis/.rvm/bin:/home/travis/.rvm/bin
 PERLBREW_BASHRC_VERSION=0.73
 PERLBREW_HOME=/home/travis/.perlbrew
 PERLBREW_ROOT=/home/travis/perl5/perlbrew
+PKG_CONFIG_PATH=/home/travis/src/local/lib64/pkgconfig:/home/travis/src/local/lib/pkgconfig:/home/travis/src/local/share/pkgconfig:
 PS4=+
 PWD=/home/travis/logs
 PYENV_SHELL=bash
@@ -50,7 +55,6 @@ PYTHON_CONFIGURE_OPTS=--enable-unicode=ucs4 --with-wide-unicode --enable-shared 
 RACK_ENV=test
 RAILS_ENV=test
 RBENV_SHELL=bash
-REL=--builddir=build --use-cmake --opts=config.opts/travis.make.release
 RUBY_VERSION=ruby-2.2.3
 rvm_autoupdate_flag=0
 rvm_binary_flag=1
@@ -66,23 +70,24 @@ rvm_version=1.26.11 (latest)
 SHELL=/bin/bash
 SHLVL=3
 SRC_DCTRL=/home/travis/src/dune-common/bin/dunecontrol
-SSH_CLIENT=107.178.215.40 48432 22
-SSH_CONNECTION=107.178.215.40 48432 10.240.0.17 22
+SSH_CLIENT=104.197.86.92 56736 22
+SSH_CONNECTION=104.197.86.92 56736 10.128.0.22 22
 SSH_TTY=/dev/pts/0
 _system_arch=x86_64
 _system_name=Ubuntu
 _system_type=Linux
 _system_version=14.04
 TERM=xterm
-TESTS=prolongation
-TRAVIS_BRANCH=travis
+TESTS=prolongation_default
+TRAVIS_BRANCH=travis_updates
 TRAVIS_BUILD_DIR=/home/travis/build/dune-community/dune-gdt
-TRAVIS_BUILD_ID=115443706
-TRAVIS_BUILD_NUMBER=67
-TRAVIS_COMMIT=6b5f340800adf26ca43c6cc4fb04e02e24fb3a2b
-TRAVIS_COMMIT_RANGE=57f583c38dbf...6b5f340800ad
-TRAVIS_JOB_ID=115443716
-TRAVIS_JOB_NUMBER=67.10
+TRAVIS_BUILD_ID=124414128
+TRAVIS_BUILD_NUMBER=140
+TRAVIS_COMMIT=14c4e069379017024d27bd5b97a53f00ca5b940b
+TRAVIS_COMMIT_RANGE=06bbefdcdff8...14c4e0693790
+TRAVIS_EVENT_TYPE=
+TRAVIS_JOB_ID=124414145
+TRAVIS_JOB_NUMBER=140.17
 TRAVIS_LANGUAGE=generic
 TRAVIS_OS_NAME=linux
 TRAVIS_PULL_REQUEST=false
