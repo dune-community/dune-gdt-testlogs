@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2016-11-22T17:15:04" time="1.002" name="AllTests">
-  <testsuite name="linearelliptic_SWIPDG_discretization" tests="2" failures="0" disabled="0" errors="0" time="1.001">
-    <testcase name="eoc_study_order_1" status="run" time="0.366" classname="linearelliptic_SWIPDG_discretization" />
-    <testcase name="eoc_study_order_2" status="run" time="0.634" classname="linearelliptic_SWIPDG_discretization" />
-  </testsuite>
-</testsuites>
