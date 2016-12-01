@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="7" failures="0" disabled="0" errors="0" timestamp="2016-12-01T14:32:21" time="0.776" name="AllTests">
+  <testsuite name="ProlongationTest/0" tests="1" failures="0" disabled="0" errors="0" time="0.006">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::FvSpace&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.006" classname="ProlongationTest/0" />
+  </testsuite>
+  <testsuite name="ProlongationTest/1" tests="1" failures="0" disabled="0" errors="0" time="0.018">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::FvSpace&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.018" classname="ProlongationTest/1" />
+  </testsuite>
+  <testsuite name="ProlongationTest/2" tests="1" failures="0" disabled="0" errors="0" time="0.153">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::FvSpace&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.153" classname="ProlongationTest/2" />
+  </testsuite>
+  <testsuite name="ProlongationTest/3" tests="1" failures="0" disabled="0" errors="0" time="0.015">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::FvSpace&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.015" classname="ProlongationTest/3" />
+  </testsuite>
+  <testsuite name="ProlongationTest/4" tests="1" failures="0" disabled="0" errors="0" time="0.472">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::FvSpace&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, ompi_communicator_t*&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.472" classname="ProlongationTest/4" />
+  </testsuite>
+  <testsuite name="ProlongationTest/5" tests="1" failures="0" disabled="0" errors="0" time="0.013">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::FvSpace&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.013" classname="ProlongationTest/5" />
+  </testsuite>
+  <testsuite name="ProlongationTest/6" tests="1" failures="0" disabled="0" errors="0" time="0.094">
+    <testcase name="produces_correct_results" type_param="Dune::GDT::FvSpace&lt;Dune::GridView&lt;Dune::DefaultLevelGridViewTraits&lt;Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, ompi_communicator_t*&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, double, 1ul, 1ul&gt;" status="run" time="0.094" classname="ProlongationTest/6" />
+  </testsuite>
+</testsuites>
