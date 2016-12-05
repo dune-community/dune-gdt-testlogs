@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="3" failures="0" disabled="0" errors="0" timestamp="2016-12-05T16:12:05" time="14.552" name="AllTests">
+  <testsuite name="linearelliptic_SWIPDG_estimators/0" tests="1" failures="0" disabled="0" errors="0" time="4.177">
+    <testcase name="eoc_study_using_fem_and_istl_and_alugrid_order_1" type_param="Dune::GDT::LinearElliptic::AO2013TestCase&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::No_Comm&gt;, double, 1&gt;" status="run" time="4.176" classname="linearelliptic_SWIPDG_estimators/0" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_estimators/1" tests="1" failures="0" disabled="0" errors="0" time="6.227">
+    <testcase name="eoc_study_using_fem_and_istl_and_alugrid_order_1" type_param="Dune::GDT::LinearElliptic::ESV2007TestCase&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::No_Comm&gt;, double, 1&gt;" status="run" time="6.227" classname="linearelliptic_SWIPDG_estimators/1" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_estimators/2" tests="1" failures="0" disabled="0" errors="0" time="4.146">
+    <testcase name="eoc_study_using_fem_and_istl_and_alugrid_order_1" type_param="Dune::GDT::LinearElliptic::Spe10Model1TestCase&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::No_Comm&gt;, double, 1&gt;" status="run" time="4.146" classname="linearelliptic_SWIPDG_estimators/2" />
+  </testsuite>
+</testsuites>
