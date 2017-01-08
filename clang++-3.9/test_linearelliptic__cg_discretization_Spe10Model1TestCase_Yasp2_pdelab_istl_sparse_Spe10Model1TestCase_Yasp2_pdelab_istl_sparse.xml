@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2017-01-08T22:56:53" time="4.599" name="AllTests">
+  <testsuite name="linearelliptic_CG_discretization" tests="1" failures="0" disabled="0" errors="0" time="4.599">
+    <testcase name="eoc_study" status="run" time="4.599" classname="linearelliptic_CG_discretization" />
+  </testsuite>
+</testsuites>
