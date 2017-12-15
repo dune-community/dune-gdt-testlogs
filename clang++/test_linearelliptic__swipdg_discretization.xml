@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="60" failures="0" disabled="0" errors="0" timestamp="2017-12-15T18:30:04" time="600.289" name="AllTests">
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="15.541">
+    <testcase name="eoc_study_order_1" status="run" time="2.045" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="13.495" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="9.733">
+    <testcase name="eoc_study_order_1" status="run" time="1.624" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="8.108" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluSimplex2dGridType__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="11.795">
+    <testcase name="eoc_study_order_1" status="run" time="2.623" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluSimplex2dGridType__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="9.171" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluSimplex2dGridType__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluSimplex2dGridType__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="8.581">
+    <testcase name="eoc_study_order_1" status="run" time="2.147" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluSimplex2dGridType__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="6.428" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluSimplex2dGridType__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluConform2dGridType__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="11.414">
+    <testcase name="eoc_study_order_1" status="run" time="2.554" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluConform2dGridType__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="8.854" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluConform2dGridType__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluConform2dGridType__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="9.085">
+    <testcase name="eoc_study_order_1" status="run" time="2.411" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluConform2dGridType__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="6.669" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_AluConform2dGridType__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="15.467">
+    <testcase name="eoc_study_order_1" status="run" time="3.175" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="12.292" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="9.513">
+    <testcase name="eoc_study_order_1" status="run" time="2.599" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="6.913" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluSimplex2dGridType__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="12.287">
+    <testcase name="eoc_study_order_1" status="run" time="3.638" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluSimplex2dGridType__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="8.647" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluSimplex2dGridType__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluSimplex2dGridType__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="9.276">
+    <testcase name="eoc_study_order_1" status="run" time="3.167" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluSimplex2dGridType__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="6.108" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluSimplex2dGridType__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluConform2dGridType__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="12.186">
+    <testcase name="eoc_study_order_1" status="run" time="3.521" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluConform2dGridType__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="8.663" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluConform2dGridType__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluConform2dGridType__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="9.17">
+    <testcase name="eoc_study_order_1" status="run" time="3.152" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluConform2dGridType__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="6.018" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_AluConform2dGridType__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="15.461">
+    <testcase name="eoc_study_order_1" status="run" time="3.102" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="12.357" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="10.225">
+    <testcase name="eoc_study_order_1" status="run" time="2.456" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="7.767" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluSimplex2dGridType__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="17.797">
+    <testcase name="eoc_study_order_1" status="run" time="5.536" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluSimplex2dGridType__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="12.261" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluSimplex2dGridType__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluSimplex2dGridType__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="11.37">
+    <testcase name="eoc_study_order_1" status="run" time="4.192" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluSimplex2dGridType__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="7.178" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluSimplex2dGridType__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluConform2dGridType__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="11.552">
+    <testcase name="eoc_study_order_1" status="run" time="3.344" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluConform2dGridType__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="8.203" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluConform2dGridType__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluConform2dGridType__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="8.578">
+    <testcase name="eoc_study_order_1" status="run" time="2.883" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluConform2dGridType__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="5.69" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_AluConform2dGridType__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="15.848">
+    <testcase name="eoc_study_order_1" status="run" time="2.255" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="13.588" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="9.754">
+    <testcase name="eoc_study_order_1" status="run" time="1.654" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="8.096" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluSimplex2dGridType__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="11.931">
+    <testcase name="eoc_study_order_1" status="run" time="2.679" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluSimplex2dGridType__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="9.249" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluSimplex2dGridType__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluSimplex2dGridType__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="10.046">
+    <testcase name="eoc_study_order_1" status="run" time="2.227" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluSimplex2dGridType__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="7.819" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluSimplex2dGridType__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluConform2dGridType__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="17.149">
+    <testcase name="eoc_study_order_1" status="run" time="3.584" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluConform2dGridType__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="13.564" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluConform2dGridType__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluConform2dGridType__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="10.812">
+    <testcase name="eoc_study_order_1" status="run" time="2.702" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluConform2dGridType__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="8.11" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_AluConform2dGridType__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="108.332">
+    <testcase name="eoc_study_order_1" status="run" time="13.552" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="94.78" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="33.653">
+    <testcase name="eoc_study_order_1" status="run" time="5.538" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="28.115" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluSimplex2dGridType__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="55.155">
+    <testcase name="eoc_study_order_1" status="run" time="13.626" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluSimplex2dGridType__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="41.528" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluSimplex2dGridType__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluSimplex2dGridType__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="40.275">
+    <testcase name="eoc_study_order_1" status="run" time="10.991" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluSimplex2dGridType__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="29.284" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluSimplex2dGridType__fem_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluConform2dGridType__fem_eigen_sparse" tests="2" failures="0" disabled="0" errors="0" time="45.927">
+    <testcase name="eoc_study_order_1" status="run" time="10.301" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluConform2dGridType__fem_eigen_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="35.626" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluConform2dGridType__fem_eigen_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluConform2dGridType__fem_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="32.323">
+    <testcase name="eoc_study_order_1" status="run" time="8.582" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluConform2dGridType__fem_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="23.741" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_AluConform2dGridType__fem_istl_sparse" />
+  </testsuite>
+</testsuites>
