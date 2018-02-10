@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="18" failures="5" disabled="0" errors="0" timestamp="2018-02-10T21:44:07" time="208.939" name="AllTests">
+  <testsuite name="EllipticMatrixOperatorTest/0" tests="6" failures="0" disabled="0" errors="0" time="0.035">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.009" classname="EllipticMatrixOperatorTest/0" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.004" classname="EllipticMatrixOperatorTest/0" />
+    <testcase name="is_matrix_operator" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.002" classname="EllipticMatrixOperatorTest/0" />
+    <testcase name="correct_for_constant_arguments" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.003" classname="EllipticMatrixOperatorTest/0" />
+    <testcase name="correct_for_linear_arguments" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.007" classname="EllipticMatrixOperatorTest/0" />
+    <testcase name="correct_for_quadratic_arguments" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.009" classname="EllipticMatrixOperatorTest/0" />
+  </testsuite>
+  <testsuite name="EllipticMatrixOperatorTest/1" tests="6" failures="2" disabled="0" errors="0" time="1.061">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.298" classname="EllipticMatrixOperatorTest/1" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.121" classname="EllipticMatrixOperatorTest/1" />
+    <testcase name="is_matrix_operator" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.058" classname="EllipticMatrixOperatorTest/1" />
+    <testcase name="correct_for_constant_arguments" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.181" classname="EllipticMatrixOperatorTest/1">
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/float_cmp_generated.hxx:27&#x0A;eq(expected, actual, rtol, atol) evaluates to false, where&#x0A;expected evaluates to -2587.9346021661181&#x0A;actual evaluates to 41.999999999989136&#x0A;rtol evaluates to 1.7763568394002505e-15&#x0A;atol evaluates to 1.7763568394002505e-15" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/float_cmp_generated.hxx:27
+eq(expected, actual, rtol, atol) evaluates to false, where
+expected evaluates to -2587.9346021661181
+actual evaluates to 41.999999999989136
+rtol evaluates to 1.7763568394002505e-15
+atol evaluates to 1.7763568394002505e-15]]></failure>
+    </testcase>
+    <testcase name="correct_for_linear_arguments" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.212" classname="EllipticMatrixOperatorTest/1">
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/float_cmp_generated.hxx:27&#x0A;eq(expected, actual, rtol, atol) evaluates to false, where&#x0A;expected evaluates to 6.5416974999429183&#x0A;actual evaluates to 13.999999999997582&#x0A;rtol evaluates to 1.7763568394002505e-15&#x0A;atol evaluates to 1.7763568394002505e-15" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/float_cmp_generated.hxx:27
+eq(expected, actual, rtol, atol) evaluates to false, where
+expected evaluates to 6.5416974999429183
+actual evaluates to 13.999999999997582
+rtol evaluates to 1.7763568394002505e-15
+atol evaluates to 1.7763568394002505e-15]]></failure>
+    </testcase>
+    <testcase name="correct_for_quadratic_arguments" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="0.189" classname="EllipticMatrixOperatorTest/1" />
+  </testsuite>
+  <testsuite name="EllipticMatrixOperatorTest/2" tests="6" failures="3" disabled="0" errors="0" time="207.843">
+    <testcase name="constructible_by_ctor" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="30.122" classname="EllipticMatrixOperatorTest/2" />
+    <testcase name="constructible_by_factory" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="13.619" classname="EllipticMatrixOperatorTest/2" />
+    <testcase name="is_matrix_operator" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="15.909" classname="EllipticMatrixOperatorTest/2" />
+    <testcase name="correct_for_constant_arguments" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="49.014" classname="EllipticMatrixOperatorTest/2">
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/float_cmp_generated.hxx:27&#x0A;eq(expected, actual, rtol, atol) evaluates to false, where&#x0A;expected evaluates to -94076.803556463696&#x0A;actual evaluates to 42.000000000019156&#x0A;rtol evaluates to 1.7763568394002505e-15&#x0A;atol evaluates to 1.7763568394002505e-15" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/float_cmp_generated.hxx:27
+eq(expected, actual, rtol, atol) evaluates to false, where
+expected evaluates to -94076.803556463696
+actual evaluates to 42.000000000019156
+rtol evaluates to 1.7763568394002505e-15
+atol evaluates to 1.7763568394002505e-15]]></failure>
+    </testcase>
+    <testcase name="correct_for_linear_arguments" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="48.751" classname="EllipticMatrixOperatorTest/2">
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/float_cmp_generated.hxx:27&#x0A;eq(expected, actual, rtol, atol) evaluates to false, where&#x0A;expected evaluates to -42303.466297468927&#x0A;actual evaluates to 14.000000000004661&#x0A;rtol evaluates to 1.7763568394002505e-15&#x0A;atol evaluates to 1.7763568394002505e-15" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/float_cmp_generated.hxx:27
+eq(expected, actual, rtol, atol) evaluates to false, where
+expected evaluates to -42303.466297468927
+actual evaluates to 14.000000000004661
+rtol evaluates to 1.7763568394002505e-15
+atol evaluates to 1.7763568394002505e-15]]></failure>
+    </testcase>
+    <testcase name="correct_for_quadratic_arguments" type_param="Dune::GDT::DiscontinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::DefaultLeafGridViewTraits&lt;Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt; const&gt; &gt;, 3, double&gt;" status="run" time="50.428" classname="EllipticMatrixOperatorTest/2">
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/float_cmp_generated.hxx:27&#x0A;eq(expected, actual, rtol, atol) evaluates to false, where&#x0A;expected evaluates to -13474.91847655237&#x0A;actual evaluates to 8.4000000000017696&#x0A;rtol evaluates to 1.7763568394002505e-15&#x0A;atol evaluates to 1.7763568394002505e-15" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/float_cmp_generated.hxx:27
+eq(expected, actual, rtol, atol) evaluates to false, where
+expected evaluates to -13474.91847655237
+actual evaluates to 8.4000000000017696
+rtol evaluates to 1.7763568394002505e-15
+atol evaluates to 1.7763568394002505e-15]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
