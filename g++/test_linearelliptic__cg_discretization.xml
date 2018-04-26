@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="5" failures="1" disabled="0" errors="0" timestamp="2018-04-26T15:19:01" time="9.229" name="AllTests">
+  <testsuite name="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="0.87">
+    <testcase name="eoc_study" status="run" time="0.87" classname="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="1.506">
+    <testcase name="eoc_study" status="run" time="1.506" classname="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="1.245">
+    <testcase name="eoc_study" status="run" time="1.245" classname="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__gdt_istl_sparse" tests="1" failures="1" disabled="0" errors="0" time="0.881">
+    <testcase name="eoc_study" status="run" time="0.881" classname="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__gdt_istl_sparse">
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 121&#x0A;Expected: expected_coefficient&#x0A;Which is: 242&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: L2&#x0A;          actual_results[0]   = 0.012067547530359336&#x0A;          expected_results[0] = 0.024199999999999999" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 121
+Expected: expected_coefficient
+Which is: 242
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: L2
+          actual_results[0]   = 0.012067547530359336
+          expected_results[0] = 0.024199999999999999]]></failure>
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 258&#x0A;Expected: expected_coefficient&#x0A;Which is: 539&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: L2&#x0A;          actual_results[1]   = 0.0025847415608216064&#x0A;          expected_results[1] = 0.0053899999999999998" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 258
+Expected: expected_coefficient
+Which is: 539
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: L2
+          actual_results[1]   = 0.0025847415608216064
+          expected_results[1] = 0.0053899999999999998]]></failure>
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 129&#x0A;Expected: expected_coefficient&#x0A;Which is: 183&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: H1_semi&#x0A;          actual_results[0]   = 0.12916266979582877&#x0A;          expected_results[0] = 0.183" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 129
+Expected: expected_coefficient
+Which is: 183
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: H1_semi
+          actual_results[0]   = 0.12916266979582877
+          expected_results[0] = 0.183]]></failure>
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 607&#x0A;Expected: expected_coefficient&#x0A;Which is: 845&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: H1_semi&#x0A;          actual_results[1]   = 0.060707871971741732&#x0A;          expected_results[1] = 0.084500000000000006" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 607
+Expected: expected_coefficient
+Which is: 845
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: H1_semi
+          actual_results[1]   = 0.060707871971741732
+          expected_results[1] = 0.084500000000000006]]></failure>
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 129&#x0A;Expected: expected_coefficient&#x0A;Which is: 183&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: energy&#x0A;          actual_results[0]   = 0.12916266979582877&#x0A;          expected_results[0] = 0.183" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 129
+Expected: expected_coefficient
+Which is: 183
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: energy
+          actual_results[0]   = 0.12916266979582877
+          expected_results[0] = 0.183]]></failure>
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 607&#x0A;Expected: expected_coefficient&#x0A;Which is: 845&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: energy&#x0A;          actual_results[1]   = 0.060707871971741732&#x0A;          expected_results[1] = 0.084500000000000006" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 607
+Expected: expected_coefficient
+Which is: 845
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: energy
+          actual_results[1]   = 0.060707871971741732
+          expected_results[1] = 0.084500000000000006]]></failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="4.727">
+    <testcase name="eoc_study" status="run" time="4.727" classname="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+</testsuites>
