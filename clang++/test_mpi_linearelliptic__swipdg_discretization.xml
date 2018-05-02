@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="10" failures="2" disabled="0" errors="0" timestamp="2018-05-02T18:16:33" time="228.989" name="AllTests">
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__gdt_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="8.463">
+    <testcase name="eoc_study_order_1" status="run" time="1.486" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__gdt_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="6.977" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__gdt_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="7.83">
+    <testcase name="eoc_study_order_1" status="run" time="1.856" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__gdt_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="5.974" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__gdt_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="7.864">
+    <testcase name="eoc_study_order_1" status="run" time="1.651" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__gdt_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="6.213" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__gdt_istl_sparse" tests="2" failures="2" disabled="0" errors="0" time="11.792">
+    <testcase name="eoc_study_order_1" status="run" time="1.878" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__gdt_istl_sparse">
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 119&#x0A;Expected: expected_coefficient&#x0A;Which is: 202&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: L2&#x0A;          actual_results[0]   = 0.011906121440029987&#x0A;          expected_results[0] = 0.020199999999999999" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 119
+Expected: expected_coefficient
+Which is: 202
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: L2
+          actual_results[0]   = 0.011906121440029987
+          expected_results[0] = 0.020199999999999999]]></failure>
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 264&#x0A;Expected: expected_coefficient&#x0A;Which is: 504&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: L2&#x0A;          actual_results[1]   = 0.0026430694372199582&#x0A;          expected_results[1] = 0.0050400000000000002" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 264
+Expected: expected_coefficient
+Which is: 504
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: L2
+          actual_results[1]   = 0.0026430694372199582
+          expected_results[1] = 0.0050400000000000002]]></failure>
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 135&#x0A;Expected: expected_coefficient&#x0A;Which is: 191&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: H1_semi&#x0A;          actual_results[0]   = 0.13495545945334178&#x0A;          expected_results[0] = 0.191" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 135
+Expected: expected_coefficient
+Which is: 191
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: H1_semi
+          actual_results[0]   = 0.13495545945334178
+          expected_results[0] = 0.191]]></failure>
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 647&#x0A;Expected: expected_coefficient&#x0A;Which is: 897&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: H1_semi&#x0A;          actual_results[1]   = 0.064735913406969048&#x0A;          expected_results[1] = 0.089700000000000002" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 647
+Expected: expected_coefficient
+Which is: 897
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: H1_semi
+          actual_results[1]   = 0.064735913406969048
+          expected_results[1] = 0.089700000000000002]]></failure>
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 135&#x0A;Expected: expected_coefficient&#x0A;Which is: 191&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: energy&#x0A;          actual_results[0]   = 0.13495545945334178&#x0A;          expected_results[0] = 0.191" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 135
+Expected: expected_coefficient
+Which is: 191
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: energy
+          actual_results[0]   = 0.13495545945334178
+          expected_results[0] = 0.191]]></failure>
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110&#x0A;Value of: actual_coefficient&#x0A;  Actual: 647&#x0A;Expected: expected_coefficient&#x0A;Which is: 897&#x0A;          Coefficient comparison (in scientific notation, precision 2) failed for&#x0A;          norm: energy&#x0A;          actual_results[1]   = 0.064735913406969048&#x0A;          expected_results[1] = 0.089700000000000002" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:110
+Value of: actual_coefficient
+  Actual: 647
+Expected: expected_coefficient
+Which is: 897
+          Coefficient comparison (in scientific notation, precision 2) failed for
+          norm: energy
+          actual_results[1]   = 0.064735913406969048
+          expected_results[1] = 0.089700000000000002]]></failure>
+    </testcase>
+    <testcase name="eoc_study_order_2" status="run" time="9.914" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__gdt_istl_sparse">
+      <failure message="/root/src/dune-xt-common/dune/xt/common/test/common.cxx:101&#x0A;Value of: actual_exponent&#x0A;  Actual: -4&#x0A;Expected: expected_exponent&#x0A;Which is: -3&#x0A;          Exponent comparison (in scientific notation, precision 2) failed for&#x0A;          norm: L2&#x0A;          actual_results[0]   = 0.00076555965102850375&#x0A;          expected_results[0] = 0.0020300000000000001" type=""><![CDATA[/root/src/dune-xt-common/dune/xt/common/test/common.cxx:101
+Value of: actual_exponent
+  Actual: -4
+Expected: expected_exponent
+Which is: -3
+          Exponent comparison (in scientific notation, precision 2) failed for
+          norm: L2
+          actual_results[0]   = 0.00076555965102850375
+          expected_results[0] = 0.0020300000000000001]]></failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__gdt_istl_sparse" tests="2" failures="0" disabled="0" errors="0" time="193.04">
+    <testcase name="eoc_study_order_1" status="run" time="22.972" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__gdt_istl_sparse" />
+    <testcase name="eoc_study_order_2" status="run" time="170.067" classname="linearelliptic_SWIPDG_discretizationDune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+</testsuites>
