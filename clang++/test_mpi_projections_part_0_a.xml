@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="5" failures="0" disabled="0" errors="0" timestamp="2018-05-02T21:53:11" time="0.74" name="AllTests">
+  <testsuite name="ProjectionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLeafGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="0.003">
+    <testcase name="produces_correct_results" status="run" time="0.002" classname="ProjectionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLeafGridViewType__1_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLeafGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="0.015">
+    <testcase name="produces_correct_results" status="run" time="0.013" classname="ProjectionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLeafGridViewType__1_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLeafGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="0.248">
+    <testcase name="produces_correct_results" status="run" time="0.247" classname="ProjectionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLeafGridViewType__1_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" tests="1" failures="0" disabled="0" errors="0" time="0.026">
+    <testcase name="produces_correct_results" status="run" time="0.026" classname="ProjectionTest_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" tests="1" failures="0" disabled="0" errors="0" time="0.444">
+    <testcase name="produces_correct_results" status="run" time="0.444" classname="ProjectionTest_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" />
+  </testsuite>
+</testsuites>
