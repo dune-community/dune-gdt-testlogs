@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" disabled="0" errors="0" timestamp="2018-05-08T00:53:14" time="0.093" name="AllTests">
+  <testsuite name="DarcyOperatorTest/0" tests="1" failures="0" disabled="0" errors="0" time="0.093">
+    <testcase name="produces_correct_results" type_param="std::pair&lt;Dune::GDT::ContinuousLagrangeSpace&lt;Dune::GridView&lt;Dune::ALU3dLeafGridViewTraits&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 1, double&gt;, Dune::GDT::RaviartThomasSpace&lt;Dune::GridView&lt;Dune::ALU3dLeafGridViewTraits&lt;Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt; const, (Dune::PartitionIteratorType)4&gt; &gt;, 0, double&gt; &gt;" status="run" time="0.093" classname="DarcyOperatorTest/0" />
+  </testsuite>
+</testsuites>
