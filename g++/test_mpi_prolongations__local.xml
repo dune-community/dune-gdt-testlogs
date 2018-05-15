@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="48" failures="0" disabled="0" errors="0" timestamp="2018-05-15T22:40:35" time="52.629" name="AllTests">
+  <testsuite name="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.017">
+    <testcase name="constructible_by_ctor" status="run" time="0.006" classname="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.004" classname="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.007" classname="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.022">
+    <testcase name="constructible_by_ctor" status="run" time="0.005" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.004" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.013" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.168">
+    <testcase name="constructible_by_ctor" status="run" time="0.026" classname="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.024" classname="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.118" classname="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.265">
+    <testcase name="constructible_by_ctor" status="run" time="0.026" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.027" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.212" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="7.031">
+    <testcase name="constructible_by_ctor" status="run" time="0.602" classname="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.606" classname="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="5.823" classname="L2LocalProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="12.192">
+    <testcase name="constructible_by_ctor" status="run" time="0.603" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.595" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="10.993" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp1dLevelGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.01">
+    <testcase name="constructible_by_ctor" status="run" time="0.003" classname="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp1dLevelGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.002" classname="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp1dLevelGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.005" classname="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp1dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp1dLevelGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.012">
+    <testcase name="constructible_by_ctor" status="run" time="0.002" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp1dLevelGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.003" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp1dLevelGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.007" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp1dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp2dLevelGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.126">
+    <testcase name="constructible_by_ctor" status="run" time="0.017" classname="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp2dLevelGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.017" classname="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp2dLevelGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.092" classname="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp2dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp2dLevelGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.186">
+    <testcase name="constructible_by_ctor" status="run" time="0.022" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp2dLevelGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.023" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp2dLevelGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.14" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp2dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp3dLevelGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="2.557">
+    <testcase name="constructible_by_ctor" status="run" time="0.232" classname="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp3dLevelGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.233" classname="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp3dLevelGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="2.091" classname="L2LocalProlongationOperatorTest_Dune__GDT__FvSpace_Yasp3dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp3dLevelGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="4.414">
+    <testcase name="constructible_by_ctor" status="run" time="0.235" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp3dLevelGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.234" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp3dLevelGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="3.939" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp3dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLevelGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="0.33">
+    <testcase name="constructible_by_ctor" status="run" time="0.049" classname="L2LocalProlongationOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLevelGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.05" classname="L2LocalProlongationOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLevelGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="0.231" classname="L2LocalProlongationOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLevelGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLevelGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="0.513">
+    <testcase name="constructible_by_ctor" status="run" time="0.051" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLevelGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.047" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLevelGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="0.414" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLevelGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLevelGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="9.166">
+    <testcase name="constructible_by_ctor" status="run" time="0.806" classname="L2LocalProlongationOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLevelGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.806" classname="L2LocalProlongationOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLevelGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="7.554" classname="L2LocalProlongationOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLevelGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLevelGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="15.614">
+    <testcase name="constructible_by_ctor" status="run" time="0.809" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLevelGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.809" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLevelGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="13.994" classname="L2LocalProlongationLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLevelGridViewType__0_" />
+  </testsuite>
+</testsuites>
