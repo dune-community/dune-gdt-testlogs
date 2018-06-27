@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="48" failures="0" disabled="0" errors="0" timestamp="2018-06-27T20:05:11" time="44.665" name="AllTests">
+  <testsuite name="ProlongationTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="0.01">
+    <testcase name="produces_correct_results" status="run" time="0.01" classname="ProlongationTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" tests="4" failures="0" disabled="0" errors="0" time="0.025">
+    <testcase name="constructible_by_ctor" status="run" time="0.007" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.005" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" />
+    <testcase name="free_function_callable" status="run" time="0.004" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.009" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" tests="3" failures="0" disabled="0" errors="0" time="0.02">
+    <testcase name="constructible_by_ctor" status="run" time="0.002" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.005" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.013" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="ProlongationTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="0.227">
+    <testcase name="produces_correct_results" status="run" time="0.227" classname="ProlongationTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" tests="4" failures="0" disabled="0" errors="0" time="0.201">
+    <testcase name="constructible_by_ctor" status="run" time="0.018" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.015" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" />
+    <testcase name="free_function_callable" status="run" time="0.016" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.152" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" tests="3" failures="0" disabled="0" errors="0" time="0.203">
+    <testcase name="constructible_by_ctor" status="run" time="0.026" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.028" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.149" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="ProlongationTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="8.118">
+    <testcase name="produces_correct_results" status="run" time="8.118" classname="ProlongationTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" tests="4" failures="0" disabled="0" errors="0" time="6.576">
+    <testcase name="constructible_by_ctor" status="run" time="0.222" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.217" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" />
+    <testcase name="free_function_callable" status="run" time="0.22" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" />
+    <testcase name="produces_correct_results" status="run" time="5.917" classname="L2ProlongationOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" tests="3" failures="0" disabled="0" errors="0" time="6.833">
+    <testcase name="constructible_by_ctor" status="run" time="0.361" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.508" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" />
+    <testcase name="produces_correct_results" status="run" time="5.964" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="ProlongationTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="0.016">
+    <testcase name="produces_correct_results" status="run" time="0.016" classname="ProlongationTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="0.023">
+    <testcase name="constructible_by_ctor" status="run" time="0.003" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.003" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+    <testcase name="free_function_callable" status="run" time="0.003" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.014" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.022">
+    <testcase name="constructible_by_ctor" status="run" time="0.003" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.006" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.013" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="ProlongationTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="0.373">
+    <testcase name="produces_correct_results" status="run" time="0.373" classname="ProlongationTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="0.228">
+    <testcase name="constructible_by_ctor" status="run" time="0.027" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.023" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+    <testcase name="free_function_callable" status="run" time="0.024" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.154" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.269">
+    <testcase name="constructible_by_ctor" status="run" time="0.026" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.037" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.206" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="ProlongationTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="9.779">
+    <testcase name="produces_correct_results" status="run" time="9.779" classname="ProlongationTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="5.873">
+    <testcase name="constructible_by_ctor" status="run" time="0.284" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.282" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+    <testcase name="free_function_callable" status="run" time="0.279" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="5.028" classname="L2ProlongationOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="5.868">
+    <testcase name="constructible_by_ctor" status="run" time="0.283" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.563" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="5.022" classname="L2ProlongationLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+  </testsuite>
+</testsuites>
