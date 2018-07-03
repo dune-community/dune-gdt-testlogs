@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2018-07-03T15:54:58" time="31.091" name="AllTests">
+  <testsuite name="hyperbolic_FV_discretization_godunov_order1_euler/0" tests="1" failures="0" disabled="0" errors="0" time="30.152">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::SourceBeamTestCase&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;, double&gt;" status="run" time="30.152" classname="hyperbolic_FV_discretization_godunov_order1_euler/0" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_godunov_order1_euler/1" tests="1" failures="0" disabled="0" errors="0" time="0.939">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::TransportTestCase&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;, double, 1ul&gt;" status="run" time="0.939" classname="hyperbolic_FV_discretization_godunov_order1_euler/1" />
+  </testsuite>
+</testsuites>
