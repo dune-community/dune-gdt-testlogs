@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="12" failures="0" disabled="0" errors="0" timestamp="2018-08-14T14:22:32" time="1.417" name="AllTests">
+  <testsuite name="ProjectionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="0.016">
+    <testcase name="produces_correct_results" status="run" time="0.016" classname="ProjectionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="0.028">
+    <testcase name="produces_correct_results" status="run" time="0.028" classname="ProjectionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="0.58">
+    <testcase name="produces_correct_results" status="run" time="0.58" classname="ProjectionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" tests="1" failures="0" disabled="0" errors="0" time="0.003">
+    <testcase name="produces_correct_results" status="run" time="0.003" classname="ProjectionTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" tests="1" failures="0" disabled="0" errors="0" time="0.002">
+    <testcase name="produces_correct_results" status="run" time="0.002" classname="ProjectionTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" tests="1" failures="0" disabled="0" errors="0" time="0.002">
+    <testcase name="produces_correct_results" status="run" time="0.002" classname="ProjectionTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" tests="1" failures="0" disabled="0" errors="0" time="0.015">
+    <testcase name="produces_correct_results" status="run" time="0.015" classname="ProjectionTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" tests="1" failures="0" disabled="0" errors="0" time="0.017">
+    <testcase name="produces_correct_results" status="run" time="0.017" classname="ProjectionTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" tests="1" failures="0" disabled="0" errors="0" time="0.018">
+    <testcase name="produces_correct_results" status="run" time="0.018" classname="ProjectionTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" tests="1" failures="0" disabled="0" errors="0" time="0.222">
+    <testcase name="produces_correct_results" status="run" time="0.222" classname="ProjectionTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" tests="1" failures="0" disabled="0" errors="0" time="0.231">
+    <testcase name="produces_correct_results" status="run" time="0.231" classname="ProjectionTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="ProjectionTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" tests="1" failures="0" disabled="0" errors="0" time="0.283">
+    <testcase name="produces_correct_results" status="run" time="0.283" classname="ProjectionTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" />
+  </testsuite>
+</testsuites>
