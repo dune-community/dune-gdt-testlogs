@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="48" failures="0" disabled="0" errors="0" timestamp="2018-08-23T20:07:15" time="3.227" name="AllTests">
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="0.014">
+    <testcase name="constructible_by_ctor" status="run" time="0.002" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.002" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+    <testcase name="free_function_callable" status="run" time="0.004" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.006" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="0.112">
+    <testcase name="constructible_by_ctor" status="run" time="0.003" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.003" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+    <testcase name="free_function_callable" status="run" time="0.029" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.077" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="1.45">
+    <testcase name="constructible_by_ctor" status="run" time="0.01" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.009" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+    <testcase name="free_function_callable" status="run" time="0.284" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="1.147" classname="L2ProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" tests="4" failures="0" disabled="0" errors="0" time="0.006">
+    <testcase name="constructible_by_ctor" status="run" time="0.001" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.001" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+    <testcase name="free_function_callable" status="run" time="0.001" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.003" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" tests="4" failures="0" disabled="0" errors="0" time="0.006">
+    <testcase name="constructible_by_ctor" status="run" time="0.001" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" />
+    <testcase name="constructible_by_factory" status="run" time="0.001" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" />
+    <testcase name="free_function_callable" status="run" time="0.001" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" />
+    <testcase name="produces_correct_results" status="run" time="0.003" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" tests="4" failures="0" disabled="0" errors="0" time="0.007">
+    <testcase name="constructible_by_ctor" status="run" time="0.001" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" />
+    <testcase name="constructible_by_factory" status="run" time="0.001" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" />
+    <testcase name="free_function_callable" status="run" time="0.001" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" />
+    <testcase name="produces_correct_results" status="run" time="0.004" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" />
+  </testsuite>
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" tests="4" failures="0" disabled="0" errors="0" time="0.036">
+    <testcase name="constructible_by_ctor" status="run" time="0.002" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.002" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+    <testcase name="free_function_callable" status="run" time="0.004" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.028" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" tests="4" failures="0" disabled="0" errors="0" time="0.049">
+    <testcase name="constructible_by_ctor" status="run" time="0.004" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" />
+    <testcase name="constructible_by_factory" status="run" time="0.003" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" />
+    <testcase name="free_function_callable" status="run" time="0.006" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" />
+    <testcase name="produces_correct_results" status="run" time="0.035" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" tests="4" failures="0" disabled="0" errors="0" time="0.054">
+    <testcase name="constructible_by_ctor" status="run" time="0.004" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" />
+    <testcase name="constructible_by_factory" status="run" time="0.004" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" />
+    <testcase name="free_function_callable" status="run" time="0.005" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" />
+    <testcase name="produces_correct_results" status="run" time="0.041" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" />
+  </testsuite>
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" tests="4" failures="0" disabled="0" errors="0" time="0.481">
+    <testcase name="constructible_by_ctor" status="run" time="0.019" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.018" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+    <testcase name="free_function_callable" status="run" time="0.05" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.393" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" tests="4" failures="0" disabled="0" errors="0" time="0.48">
+    <testcase name="constructible_by_ctor" status="run" time="0.019" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" />
+    <testcase name="constructible_by_factory" status="run" time="0.01" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" />
+    <testcase name="free_function_callable" status="run" time="0.022" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" />
+    <testcase name="produces_correct_results" status="run" time="0.426" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" tests="4" failures="0" disabled="0" errors="0" time="0.53">
+    <testcase name="constructible_by_ctor" status="run" time="0.016" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" />
+    <testcase name="constructible_by_factory" status="run" time="0.012" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" />
+    <testcase name="free_function_callable" status="run" time="0.019" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" />
+    <testcase name="produces_correct_results" status="run" time="0.483" classname="L2ProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" />
+  </testsuite>
+</testsuites>
