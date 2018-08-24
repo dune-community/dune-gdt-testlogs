@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="5" failures="0" disabled="0" errors="0" timestamp="2018-08-24T01:48:15" time="19.645" name="AllTests">
+  <testsuite name="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="1.04">
+    <testcase name="eoc_study" status="run" time="1.04" classname="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__AO2013TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="2.803">
+    <testcase name="eoc_study" status="run" time="2.803" classname="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__ER2007TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="2.701">
+    <testcase name="eoc_study" status="run" time="2.701" classname="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__ESV2007TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="1.912">
+    <testcase name="eoc_study" status="run" time="1.912" classname="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__MixedBoundaryTestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="11.188">
+    <testcase name="eoc_study" status="run" time="11.188" classname="linearelliptic_CG_discretization_Dune__GDT__LinearElliptic__Spe10Model1TestCase_Yasp2Grid__gdt_istl_sparse" />
+  </testsuite>
+</testsuites>
