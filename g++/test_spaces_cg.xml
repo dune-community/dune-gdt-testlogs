@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="176" failures="0" disabled="0" errors="0" timestamp="2018-10-13T13:01:08" time="3.954" name="AllTests">
+  <testsuite name="Order1SimplicialContinuousLagrangeSpace/0" tests="8" failures="0" disabled="0" errors="0" time="0.046">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.027" classname="Order1SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.003" classname="Order1SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.002" classname="Order1SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.002" classname="Order1SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.001" classname="Order1SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0" classname="Order1SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.003" classname="Order1SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.002" classname="Order1SimplicialContinuousLagrangeSpace/0" />
+  </testsuite>
+  <testsuite name="Order1SimplicialContinuousLagrangeSpace/1" tests="8" failures="0" disabled="0" errors="0" time="0.058">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.022" classname="Order1SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.005" classname="Order1SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.005" classname="Order1SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.005" classname="Order1SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.005" classname="Order1SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.005" classname="Order1SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.006" classname="Order1SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.005" classname="Order1SimplicialContinuousLagrangeSpace/1" />
+  </testsuite>
+  <testsuite name="Order1SimplicialContinuousLagrangeSpace/2" tests="8" failures="0" disabled="0" errors="0" time="0.667">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.139" classname="Order1SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.053" classname="Order1SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.12" classname="Order1SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.051" classname="Order1SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.086" classname="Order1SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.056" classname="Order1SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.068" classname="Order1SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.093" classname="Order1SimplicialContinuousLagrangeSpace/2" />
+  </testsuite>
+  <testsuite name="Order2SimplicialContinuousLagrangeSpace/0" tests="8" failures="0" disabled="0" errors="0" time="0.008">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.001" classname="Order2SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0" classname="Order2SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.001" classname="Order2SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.001" classname="Order2SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0" classname="Order2SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.001" classname="Order2SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.001" classname="Order2SimplicialContinuousLagrangeSpace/0" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.003" classname="Order2SimplicialContinuousLagrangeSpace/0" />
+  </testsuite>
+  <testsuite name="Order2SimplicialContinuousLagrangeSpace/1" tests="8" failures="0" disabled="0" errors="0" time="0.026">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.003" classname="Order2SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order2SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order2SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order2SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.003" classname="Order2SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order2SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.004" classname="Order2SimplicialContinuousLagrangeSpace/1" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.008" classname="Order2SimplicialContinuousLagrangeSpace/1" />
+  </testsuite>
+  <testsuite name="Order2SimplicialContinuousLagrangeSpace/2" tests="8" failures="0" disabled="0" errors="0" time="1.421">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.155" classname="Order2SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.052" classname="Order2SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.055" classname="Order2SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.053" classname="Order2SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.113" classname="Order2SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.051" classname="Order2SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.332" classname="Order2SimplicialContinuousLagrangeSpace/2" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.603" classname="Order2SimplicialContinuousLagrangeSpace/2" />
+  </testsuite>
+  <testsuite name="Order1CubicContinuousLagrangeSpace/0" tests="8" failures="0" disabled="0" errors="0" time="0.068">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order1CubicContinuousLagrangeSpace/0" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order1CubicContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.024" classname="Order1CubicContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.013" classname="Order1CubicContinuousLagrangeSpace/0" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.007" classname="Order1CubicContinuousLagrangeSpace/0" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.004" classname="Order1CubicContinuousLagrangeSpace/0" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.005" classname="Order1CubicContinuousLagrangeSpace/0" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.003" classname="Order1CubicContinuousLagrangeSpace/0" />
+  </testsuite>
+  <testsuite name="Order1CubicContinuousLagrangeSpace/1" tests="8" failures="0" disabled="0" errors="0" time="0.063">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.02" classname="Order1CubicContinuousLagrangeSpace/1" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.008" classname="Order1CubicContinuousLagrangeSpace/1" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.012" classname="Order1CubicContinuousLagrangeSpace/1" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.004" classname="Order1CubicContinuousLagrangeSpace/1" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.004" classname="Order1CubicContinuousLagrangeSpace/1" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.004" classname="Order1CubicContinuousLagrangeSpace/1" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.005" classname="Order1CubicContinuousLagrangeSpace/1" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.004" classname="Order1CubicContinuousLagrangeSpace/1" />
+  </testsuite>
+  <testsuite name="Order1CubicContinuousLagrangeSpace/2" tests="8" failures="0" disabled="0" errors="0" time="0.016">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order1CubicContinuousLagrangeSpace/2" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order1CubicContinuousLagrangeSpace/2" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order1CubicContinuousLagrangeSpace/2" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order1CubicContinuousLagrangeSpace/2" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order1CubicContinuousLagrangeSpace/2" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.001" classname="Order1CubicContinuousLagrangeSpace/2" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order1CubicContinuousLagrangeSpace/2" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order1CubicContinuousLagrangeSpace/2" />
+  </testsuite>
+  <testsuite name="Order1CubicContinuousLagrangeSpace/3" tests="8" failures="0" disabled="0" errors="0" time="0.112">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.007" classname="Order1CubicContinuousLagrangeSpace/3" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.007" classname="Order1CubicContinuousLagrangeSpace/3" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.007" classname="Order1CubicContinuousLagrangeSpace/3" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.007" classname="Order1CubicContinuousLagrangeSpace/3" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.009" classname="Order1CubicContinuousLagrangeSpace/3" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.007" classname="Order1CubicContinuousLagrangeSpace/3" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.009" classname="Order1CubicContinuousLagrangeSpace/3" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.059" classname="Order1CubicContinuousLagrangeSpace/3" />
+  </testsuite>
+  <testsuite name="Order1CubicContinuousLagrangeSpace/4" tests="8" failures="0" disabled="0" errors="0" time="0.267">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.035" classname="Order1CubicContinuousLagrangeSpace/4" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.036" classname="Order1CubicContinuousLagrangeSpace/4" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.034" classname="Order1CubicContinuousLagrangeSpace/4" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.035" classname="Order1CubicContinuousLagrangeSpace/4" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.049" classname="Order1CubicContinuousLagrangeSpace/4" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.032" classname="Order1CubicContinuousLagrangeSpace/4" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.03" classname="Order1CubicContinuousLagrangeSpace/4" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.014" classname="Order1CubicContinuousLagrangeSpace/4" />
+  </testsuite>
+  <testsuite name="Order1CubicContinuousLagrangeSpace/5" tests="8" failures="0" disabled="0" errors="0" time="0.047">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.005" classname="Order1CubicContinuousLagrangeSpace/5" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.005" classname="Order1CubicContinuousLagrangeSpace/5" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.005" classname="Order1CubicContinuousLagrangeSpace/5" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.004" classname="Order1CubicContinuousLagrangeSpace/5" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.006" classname="Order1CubicContinuousLagrangeSpace/5" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.008" classname="Order1CubicContinuousLagrangeSpace/5" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.007" classname="Order1CubicContinuousLagrangeSpace/5" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.007" classname="Order1CubicContinuousLagrangeSpace/5" />
+  </testsuite>
+  <testsuite name="Order2CubicContinuousLagrangeSpace/0" tests="8" failures="0" disabled="0" errors="0" time="0.02">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order2CubicContinuousLagrangeSpace/0" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.003" classname="Order2CubicContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order2CubicContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order2CubicContinuousLagrangeSpace/0" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.003" classname="Order2CubicContinuousLagrangeSpace/0" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order2CubicContinuousLagrangeSpace/0" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order2CubicContinuousLagrangeSpace/0" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.004" classname="Order2CubicContinuousLagrangeSpace/0" />
+  </testsuite>
+  <testsuite name="Order2CubicContinuousLagrangeSpace/1" tests="8" failures="0" disabled="0" errors="0" time="0.159">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.005" classname="Order2CubicContinuousLagrangeSpace/1" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.004" classname="Order2CubicContinuousLagrangeSpace/1" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.018" classname="Order2CubicContinuousLagrangeSpace/1" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.03" classname="Order2CubicContinuousLagrangeSpace/1" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.02" classname="Order2CubicContinuousLagrangeSpace/1" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.036" classname="Order2CubicContinuousLagrangeSpace/1" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.035" classname="Order2CubicContinuousLagrangeSpace/1" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.011" classname="Order2CubicContinuousLagrangeSpace/1" />
+  </testsuite>
+  <testsuite name="Order2CubicContinuousLagrangeSpace/2" tests="8" failures="0" disabled="0" errors="0" time="0.02">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.003" classname="Order2CubicContinuousLagrangeSpace/2" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order2CubicContinuousLagrangeSpace/2" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order2CubicContinuousLagrangeSpace/2" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order2CubicContinuousLagrangeSpace/2" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order2CubicContinuousLagrangeSpace/2" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order2CubicContinuousLagrangeSpace/2" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.003" classname="Order2CubicContinuousLagrangeSpace/2" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.004" classname="Order2CubicContinuousLagrangeSpace/2" />
+  </testsuite>
+  <testsuite name="Order2CubicContinuousLagrangeSpace/3" tests="8" failures="0" disabled="0" errors="0" time="0.253">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.01" classname="Order2CubicContinuousLagrangeSpace/3" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.009" classname="Order2CubicContinuousLagrangeSpace/3" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.008" classname="Order2CubicContinuousLagrangeSpace/3" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.016" classname="Order2CubicContinuousLagrangeSpace/3" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.025" classname="Order2CubicContinuousLagrangeSpace/3" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.011" classname="Order2CubicContinuousLagrangeSpace/3" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.091" classname="Order2CubicContinuousLagrangeSpace/3" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.082" classname="Order2CubicContinuousLagrangeSpace/3" />
+  </testsuite>
+  <testsuite name="Order2CubicContinuousLagrangeSpace/4" tests="8" failures="0" disabled="0" errors="0" time="0.264">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.015" classname="Order2CubicContinuousLagrangeSpace/4" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.014" classname="Order2CubicContinuousLagrangeSpace/4" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.021" classname="Order2CubicContinuousLagrangeSpace/4" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.014" classname="Order2CubicContinuousLagrangeSpace/4" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.02" classname="Order2CubicContinuousLagrangeSpace/4" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.014" classname="Order2CubicContinuousLagrangeSpace/4" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.054" classname="Order2CubicContinuousLagrangeSpace/4" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.104" classname="Order2CubicContinuousLagrangeSpace/4" />
+  </testsuite>
+  <testsuite name="Order2CubicContinuousLagrangeSpace/5" tests="8" failures="0" disabled="0" errors="0" time="0.198">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.009" classname="Order2CubicContinuousLagrangeSpace/5" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.008" classname="Order2CubicContinuousLagrangeSpace/5" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.008" classname="Order2CubicContinuousLagrangeSpace/5" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.01" classname="Order2CubicContinuousLagrangeSpace/5" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.012" classname="Order2CubicContinuousLagrangeSpace/5" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.007" classname="Order2CubicContinuousLagrangeSpace/5" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.045" classname="Order2CubicContinuousLagrangeSpace/5" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.097" classname="Order2CubicContinuousLagrangeSpace/5" />
+  </testsuite>
+  <testsuite name="Order1PrismContinuousLagrangeSpace/0" tests="8" failures="0" disabled="0" errors="0" time="0.039">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.005" classname="Order1PrismContinuousLagrangeSpace/0" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.004" classname="Order1PrismContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.004" classname="Order1PrismContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.003" classname="Order1PrismContinuousLagrangeSpace/0" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.003" classname="Order1PrismContinuousLagrangeSpace/0" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.004" classname="Order1PrismContinuousLagrangeSpace/0" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.003" classname="Order1PrismContinuousLagrangeSpace/0" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.012" classname="Order1PrismContinuousLagrangeSpace/0" />
+  </testsuite>
+  <testsuite name="Order2PrismContinuousLagrangeSpace/0" tests="8" failures="0" disabled="0" errors="0" time="0.135">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.005" classname="Order2PrismContinuousLagrangeSpace/0" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.006" classname="Order2PrismContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.014" classname="Order2PrismContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.007" classname="Order2PrismContinuousLagrangeSpace/0" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.02" classname="Order2PrismContinuousLagrangeSpace/0" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.009" classname="Order2PrismContinuousLagrangeSpace/0" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.051" classname="Order2PrismContinuousLagrangeSpace/0" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;3&gt;" status="run" time="0.022" classname="Order2PrismContinuousLagrangeSpace/0" />
+  </testsuite>
+  <testsuite name="Order1MixedContinuousLagrangeSpace/0" tests="8" failures="0" disabled="0" errors="0" time="0.025">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.003" classname="Order1MixedContinuousLagrangeSpace/0" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.005" classname="Order1MixedContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order1MixedContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order1MixedContinuousLagrangeSpace/0" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order1MixedContinuousLagrangeSpace/0" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order1MixedContinuousLagrangeSpace/0" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.003" classname="Order1MixedContinuousLagrangeSpace/0" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.003" classname="Order1MixedContinuousLagrangeSpace/0" />
+  </testsuite>
+  <testsuite name="Order2MixedContinuousLagrangeSpace/0" tests="8" failures="0" disabled="0" errors="0" time="0.037">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.006" classname="Order2MixedContinuousLagrangeSpace/0" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.003" classname="Order2MixedContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.003" classname="Order2MixedContinuousLagrangeSpace/0" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.002" classname="Order2MixedContinuousLagrangeSpace/0" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.003" classname="Order2MixedContinuousLagrangeSpace/0" />
+    <testcase name="lagrange_points_exist_on_each_element_with_correct_size" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.004" classname="Order2MixedContinuousLagrangeSpace/0" />
+    <testcase name="basis_is_lagrange_basis" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.008" classname="Order2MixedContinuousLagrangeSpace/0" />
+    <testcase name="basis_jacobians_seem_to_be_correct" type_param="Dune::UGGrid&lt;2&gt;" status="run" time="0.006" classname="Order2MixedContinuousLagrangeSpace/0" />
+  </testsuite>
+</testsuites>
