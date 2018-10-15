@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="63" failures="0" disabled="0" errors="0" timestamp="2018-10-15T13:53:59" time="1.795" name="AllTests">
+  <testsuite name="Order0SimplicialRtSpace/0" tests="7" failures="0" disabled="0" errors="0" time="0.029">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.005" classname="Order0SimplicialRtSpace/0" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.001" classname="Order0SimplicialRtSpace/0" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.001" classname="Order0SimplicialRtSpace/0" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.004" classname="Order0SimplicialRtSpace/0" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.004" classname="Order0SimplicialRtSpace/0" />
+    <testcase name="local_DoF_indices_exist_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.004" classname="Order0SimplicialRtSpace/0" />
+    <testcase name="basis_is_rt_basis" type_param="Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;" status="run" time="0.007" classname="Order0SimplicialRtSpace/0" />
+  </testsuite>
+  <testsuite name="Order0SimplicialRtSpace/1" tests="7" failures="0" disabled="0" errors="0" time="0.062">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.012" classname="Order0SimplicialRtSpace/1" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.014" classname="Order0SimplicialRtSpace/1" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.004" classname="Order0SimplicialRtSpace/1" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.014" classname="Order0SimplicialRtSpace/1" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.005" classname="Order0SimplicialRtSpace/1" />
+    <testcase name="local_DoF_indices_exist_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.007" classname="Order0SimplicialRtSpace/1" />
+    <testcase name="basis_is_rt_basis" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.006" classname="Order0SimplicialRtSpace/1" />
+  </testsuite>
+  <testsuite name="Order0SimplicialRtSpace/2" tests="7" failures="0" disabled="0" errors="0" time="0.051">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.005" classname="Order0SimplicialRtSpace/2" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.004" classname="Order0SimplicialRtSpace/2" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.004" classname="Order0SimplicialRtSpace/2" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.005" classname="Order0SimplicialRtSpace/2" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.006" classname="Order0SimplicialRtSpace/2" />
+    <testcase name="local_DoF_indices_exist_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.004" classname="Order0SimplicialRtSpace/2" />
+    <testcase name="basis_is_rt_basis" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.019" classname="Order0SimplicialRtSpace/2" />
+  </testsuite>
+  <testsuite name="Order0SimplicialRtSpace/3" tests="7" failures="0" disabled="0" errors="0" time="0.268">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.057" classname="Order0SimplicialRtSpace/3" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.043" classname="Order0SimplicialRtSpace/3" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.024" classname="Order0SimplicialRtSpace/3" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.023" classname="Order0SimplicialRtSpace/3" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.033" classname="Order0SimplicialRtSpace/3" />
+    <testcase name="local_DoF_indices_exist_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.031" classname="Order0SimplicialRtSpace/3" />
+    <testcase name="basis_is_rt_basis" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)0, Dune::ALUGridMPIComm&gt;" status="run" time="0.055" classname="Order0SimplicialRtSpace/3" />
+  </testsuite>
+  <testsuite name="Order0SimplicialRtSpace/4" tests="7" failures="0" disabled="0" errors="0" time="1.091">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.049" classname="Order0SimplicialRtSpace/4" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.054" classname="Order0SimplicialRtSpace/4" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.053" classname="Order0SimplicialRtSpace/4" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.31" classname="Order0SimplicialRtSpace/4" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.277" classname="Order0SimplicialRtSpace/4" />
+    <testcase name="local_DoF_indices_exist_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.083" classname="Order0SimplicialRtSpace/4" />
+    <testcase name="basis_is_rt_basis" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)0, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.263" classname="Order0SimplicialRtSpace/4" />
+  </testsuite>
+  <testsuite name="Order0CubicRtSpace/0" tests="7" failures="0" disabled="0" errors="0" time="0.015">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.003" classname="Order0CubicRtSpace/0" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order0CubicRtSpace/0" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.001" classname="Order0CubicRtSpace/0" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order0CubicRtSpace/0" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order0CubicRtSpace/0" />
+    <testcase name="local_DoF_indices_exist_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order0CubicRtSpace/0" />
+    <testcase name="basis_is_rt_basis" type_param="Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;" status="run" time="0.002" classname="Order0CubicRtSpace/0" />
+  </testsuite>
+  <testsuite name="Order0CubicRtSpace/1" tests="7" failures="0" disabled="0" errors="0" time="0.076">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.005" classname="Order0CubicRtSpace/1" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.009" classname="Order0CubicRtSpace/1" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.015" classname="Order0CubicRtSpace/1" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.016" classname="Order0CubicRtSpace/1" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.01" classname="Order0CubicRtSpace/1" />
+    <testcase name="local_DoF_indices_exist_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.009" classname="Order0CubicRtSpace/1" />
+    <testcase name="basis_is_rt_basis" type_param="Dune::ALUGrid&lt;2, 2, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.008" classname="Order0CubicRtSpace/1" />
+  </testsuite>
+  <testsuite name="Order0CubicRtSpace/2" tests="7" failures="0" disabled="0" errors="0" time="0.067">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.012" classname="Order0CubicRtSpace/2" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.01" classname="Order0CubicRtSpace/2" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.008" classname="Order0CubicRtSpace/2" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.009" classname="Order0CubicRtSpace/2" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.01" classname="Order0CubicRtSpace/2" />
+    <testcase name="local_DoF_indices_exist_on_each_element_with_correct_size" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.007" classname="Order0CubicRtSpace/2" />
+    <testcase name="basis_is_rt_basis" type_param="Dune::YaspGrid&lt;3, Dune::EquidistantOffsetCoordinates&lt;double, 3&gt; &gt;" status="run" time="0.01" classname="Order0CubicRtSpace/2" />
+  </testsuite>
+  <testsuite name="Order0CubicRtSpace/3" tests="7" failures="0" disabled="0" errors="0" time="0.132">
+    <testcase name="basis_exists_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.012" classname="Order0CubicRtSpace/3" />
+    <testcase name="basis_exists_on_each_element_with_correct_order" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.015" classname="Order0CubicRtSpace/3" />
+    <testcase name="mapper_reports_correct_num_DoFs_on_each_element" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.013" classname="Order0CubicRtSpace/3" />
+    <testcase name="mapper_reports_correct_max_num_DoFs" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.012" classname="Order0CubicRtSpace/3" />
+    <testcase name="mapper_maps_correctly" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.02" classname="Order0CubicRtSpace/3" />
+    <testcase name="local_DoF_indices_exist_on_each_element_with_correct_size" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.037" classname="Order0CubicRtSpace/3" />
+    <testcase name="basis_is_rt_basis" type_param="Dune::ALUGrid&lt;3, 3, (Dune::ALUGridElementType)1, (Dune::ALUGridRefinementType)1, Dune::ALUGridMPIComm&gt;" status="run" time="0.022" classname="Order0CubicRtSpace/3" />
+  </testsuite>
+</testsuites>
