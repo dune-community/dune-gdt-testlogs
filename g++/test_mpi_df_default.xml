@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="23" failures="0" disabled="0" errors="0" timestamp="2018-10-16T11:51:11" time="19.731" name="AllTests">
+  <testsuite name="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="0.011">
+    <testcase name="visualize" status="run" time="0.011" classname="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_AluConform3dLevelGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="1.211">
+    <testcase name="visualize" status="run" time="1.211" classname="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_AluConform3dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_AluCube2dLevelGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="0.063">
+    <testcase name="visualize" status="run" time="0.063" classname="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_AluCube2dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_AluCube3dLevelGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="1.205">
+    <testcase name="visualize" status="run" time="1.205" classname="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_AluCube3dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="0.051">
+    <testcase name="visualize" status="run" time="0.051" classname="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" tests="1" failures="0" disabled="0" errors="0" time="1.592">
+    <testcase name="visualize" status="run" time="1.592" classname="DiscretefunctionTest_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLevelGridViewType__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="0.008">
+    <testcase name="visualize" status="run" time="0.008" classname="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLevelGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="1.036">
+    <testcase name="visualize" status="run" time="1.036" classname="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLevelGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="0.048">
+    <testcase name="visualize" status="run" time="0.048" classname="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLevelGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="0.972">
+    <testcase name="visualize" status="run" time="0.972" classname="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="0.04">
+    <testcase name="visualize" status="run" time="0.04" classname="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" tests="1" failures="0" disabled="0" errors="0" time="1.038">
+    <testcase name="visualize" status="run" time="1.038" classname="DiscretefunctionTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLevelGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__FvSpace_Yasp1dLevelGridViewType__double__1_" tests="1" failures="0" disabled="0" errors="0" time="0.008">
+    <testcase name="visualize" status="run" time="0.008" classname="DiscretefunctionTest_Dune__GDT__FvSpace_Yasp1dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__FvSpace_AluConform3dLevelGridViewType__double__1_" tests="1" failures="0" disabled="0" errors="0" time="0.526">
+    <testcase name="visualize" status="run" time="0.526" classname="DiscretefunctionTest_Dune__GDT__FvSpace_AluConform3dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__FvSpace_AluCube2dLevelGridViewType__double__1_" tests="1" failures="0" disabled="0" errors="0" time="0.036">
+    <testcase name="visualize" status="run" time="0.035" classname="DiscretefunctionTest_Dune__GDT__FvSpace_AluCube2dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__FvSpace_AluCube3dLevelGridViewType__double__1_" tests="1" failures="0" disabled="0" errors="0" time="0.545">
+    <testcase name="visualize" status="run" time="0.545" classname="DiscretefunctionTest_Dune__GDT__FvSpace_AluCube3dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__FvSpace_Yasp2dLevelGridViewType__double__1_" tests="1" failures="0" disabled="0" errors="0" time="0.024">
+    <testcase name="visualize" status="run" time="0.024" classname="DiscretefunctionTest_Dune__GDT__FvSpace_Yasp2dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__FvSpace_Yasp3dLevelGridViewType__double__1_" tests="1" failures="0" disabled="0" errors="0" time="0.52">
+    <testcase name="visualize" status="run" time="0.52" classname="DiscretefunctionTest_Dune__GDT__FvSpace_Yasp3dLevelGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__RaviartThomasSpace_AluConform3dLevelGridViewType__0_" tests="1" failures="0" disabled="0" errors="0" time="3.837">
+    <testcase name="visualize" status="run" time="3.837" classname="DiscretefunctionTest_Dune__GDT__RaviartThomasSpace_AluConform3dLevelGridViewType__0_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__RaviartThomasSpace_AluCube2dLevelGridViewType__0_" tests="1" failures="0" disabled="0" errors="0" time="0.093">
+    <testcase name="visualize" status="run" time="0.093" classname="DiscretefunctionTest_Dune__GDT__RaviartThomasSpace_AluCube2dLevelGridViewType__0_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__RaviartThomasSpace_AluCube3dLevelGridViewType__0_" tests="1" failures="0" disabled="0" errors="0" time="2.928">
+    <testcase name="visualize" status="run" time="2.928" classname="DiscretefunctionTest_Dune__GDT__RaviartThomasSpace_AluCube3dLevelGridViewType__0_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__RaviartThomasSpace_Yasp2dLevelGridViewType__0_" tests="1" failures="0" disabled="0" errors="0" time="0.096">
+    <testcase name="visualize" status="run" time="0.096" classname="DiscretefunctionTest_Dune__GDT__RaviartThomasSpace_Yasp2dLevelGridViewType__0_" />
+  </testsuite>
+  <testsuite name="DiscretefunctionTest_Dune__GDT__RaviartThomasSpace_Yasp3dLevelGridViewType__0_" tests="1" failures="0" disabled="0" errors="0" time="3.841">
+    <testcase name="visualize" status="run" time="3.841" classname="DiscretefunctionTest_Dune__GDT__RaviartThomasSpace_Yasp3dLevelGridViewType__0_" />
+  </testsuite>
+</testsuites>
