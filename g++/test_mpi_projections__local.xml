@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="120" failures="0" disabled="0" errors="0" timestamp="2018-10-17T07:31:18" time="13.251" name="AllTests">
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.014">
+    <testcase name="constructible_by_ctor" status="run" time="0.005" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.004" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.005" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.007">
+    <testcase name="constructible_by_ctor" status="run" time="0.001" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.001" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.005" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.062">
+    <testcase name="constructible_by_ctor" status="run" time="0.012" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.009" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.041" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.102">
+    <testcase name="constructible_by_ctor" status="run" time="0.011" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.008" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.083" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.377">
+    <testcase name="constructible_by_ctor" status="run" time="0.007" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.015" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.355" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.98">
+    <testcase name="constructible_by_ctor" status="run" time="0.005" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.006" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.969" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.051">
+    <testcase name="constructible_by_ctor" status="run" time="0.009" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.009" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.033" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.164">
+    <testcase name="constructible_by_ctor" status="run" time="0.009" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.054" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.101" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.61">
+    <testcase name="constructible_by_ctor" status="run" time="0.04" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.051" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.518" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="1.069">
+    <testcase name="constructible_by_ctor" status="run" time="0.043" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.047" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.978" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.045">
+    <testcase name="constructible_by_ctor" status="run" time="0.004" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.003" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.038" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.071">
+    <testcase name="constructible_by_ctor" status="run" time="0.002" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.003" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.053" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="0.544">
+    <testcase name="constructible_by_ctor" status="run" time="0.009" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.008" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="0.527" classname="L2LocalProjectionOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" tests="3" failures="0" disabled="0" errors="0" time="1.025">
+    <testcase name="constructible_by_ctor" status="run" time="0.012" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+    <testcase name="constructible_by_factory" status="run" time="0.008" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+    <testcase name="produces_correct_results" status="run" time="1.005" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.003">
+    <testcase name="constructible_by_ctor" status="run" time="0.001" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.001" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.001" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.005">
+    <testcase name="constructible_by_ctor" status="run" time="0.001" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.001" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.003" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.04">
+    <testcase name="constructible_by_ctor" status="run" time="0.008" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.009" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.023" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.146">
+    <testcase name="constructible_by_ctor" status="run" time="0.008" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.009" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.129" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.171">
+    <testcase name="constructible_by_ctor" status="run" time="0.007" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.007" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.156" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.304">
+    <testcase name="constructible_by_ctor" status="run" time="0.007" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.01" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.283" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.052">
+    <testcase name="constructible_by_ctor" status="run" time="0.008" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.022" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.02" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.053">
+    <testcase name="constructible_by_ctor" status="run" time="0.012" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.01" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.026" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.235">
+    <testcase name="constructible_by_ctor" status="run" time="0.041" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.038" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.156" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.346">
+    <testcase name="constructible_by_ctor" status="run" time="0.039" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.051" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.254" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.023">
+    <testcase name="constructible_by_ctor" status="run" time="0.003" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.002" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.011" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.027">
+    <testcase name="constructible_by_ctor" status="run" time="0.002" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.003" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.021" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.181">
+    <testcase name="constructible_by_ctor" status="run" time="0.007" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.007" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.167" classname="L2LocalProjectionOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" tests="3" failures="0" disabled="0" errors="0" time="0.3">
+    <testcase name="constructible_by_ctor" status="run" time="0.007" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+    <testcase name="constructible_by_factory" status="run" time="0.007" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+    <testcase name="produces_correct_results" status="run" time="0.286" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="0.107">
+    <testcase name="constructible_by_ctor" status="run" time="0.011" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.026" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="0.069" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="0.139">
+    <testcase name="constructible_by_ctor" status="run" time="0.01" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.01" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="0.119" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="0.591">
+    <testcase name="constructible_by_ctor" status="run" time="0.014" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.019" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="0.556" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="1.135">
+    <testcase name="constructible_by_ctor" status="run" time="0.012" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.013" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="1.103" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="0.076">
+    <testcase name="constructible_by_ctor" status="run" time="0.008" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.025" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="0.039" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="0.1">
+    <testcase name="constructible_by_ctor" status="run" time="0.016" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.013" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="0.068" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="0.779">
+    <testcase name="constructible_by_ctor" status="run" time="0.051" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.044" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="0.678" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="1.404">
+    <testcase name="constructible_by_ctor" status="run" time="0.043" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.059" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="1.3" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="0.038">
+    <testcase name="constructible_by_ctor" status="run" time="0.003" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.002" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="0.033" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="0.108">
+    <testcase name="constructible_by_ctor" status="run" time="0.003" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.002" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="0.103" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="0.602">
+    <testcase name="constructible_by_ctor" status="run" time="0.016" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.011" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="0.574" classname="L2LocalProjectionOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" tests="3" failures="0" disabled="0" errors="0" time="1.132">
+    <testcase name="constructible_by_ctor" status="run" time="0.015" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" />
+    <testcase name="constructible_by_factory" status="run" time="0.011" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" />
+    <testcase name="produces_correct_results" status="run" time="1.106" classname="L2LocalProjectionLocalizableOperatorTest_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" />
+  </testsuite>
+</testsuites>
