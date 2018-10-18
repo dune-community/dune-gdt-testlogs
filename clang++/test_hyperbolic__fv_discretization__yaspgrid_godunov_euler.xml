@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="8" failures="0" disabled="0" errors="0" timestamp="2018-10-18T13:38:58" time="259.014" name="AllTests">
+  <testsuite name="hyperbolic_FV_discretization_godunov_order0_euler/0" tests="1" failures="0" disabled="0" errors="0" time="11.55">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::SourceBeamTestCase&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;, double&gt;" status="run" time="11.55" classname="hyperbolic_FV_discretization_godunov_order0_euler/0" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_godunov_order0_euler/1" tests="1" failures="0" disabled="0" errors="0" time="49.513">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::CheckerboardTestCase&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, double, 1ul&gt;" status="run" time="49.513" classname="hyperbolic_FV_discretization_godunov_order0_euler/1" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_godunov_order0_euler/2" tests="1" failures="0" disabled="0" errors="0" time="0.473">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::BurgersTestCase&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;, double, 1ul&gt;" status="run" time="0.473" classname="hyperbolic_FV_discretization_godunov_order0_euler/2" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_godunov_order0_euler/3" tests="1" failures="0" disabled="0" errors="0" time="19.72">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::BurgersTestCase&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, double, 1ul&gt;" status="run" time="19.72" classname="hyperbolic_FV_discretization_godunov_order0_euler/3" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_godunov_order0_euler/4" tests="1" failures="0" disabled="0" errors="0" time="0.619">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::ShallowWaterTestCase&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;, double&gt;" status="run" time="0.619" classname="hyperbolic_FV_discretization_godunov_order0_euler/4" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_godunov_order0_euler/5" tests="1" failures="0" disabled="0" errors="0" time="0.612">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::ShockTubeTestCase&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;, double&gt;" status="run" time="0.612" classname="hyperbolic_FV_discretization_godunov_order0_euler/5" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_godunov_order0_euler/6" tests="1" failures="0" disabled="0" errors="0" time="0.48">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::TransportTestCase&lt;Dune::YaspGrid&lt;1, Dune::EquidistantOffsetCoordinates&lt;double, 1&gt; &gt;, double, 1ul&gt;" status="run" time="0.48" classname="hyperbolic_FV_discretization_godunov_order0_euler/6" />
+  </testsuite>
+  <testsuite name="hyperbolic_FV_discretization_godunov_order0_euler/7" tests="1" failures="0" disabled="0" errors="0" time="176.047">
+    <testcase name="eoc_study_using_yaspgrid" type_param="Dune::GDT::Hyperbolic::TransportTestCase&lt;Dune::YaspGrid&lt;2, Dune::EquidistantOffsetCoordinates&lt;double, 2&gt; &gt;, double, 1ul&gt;" status="run" time="176.047" classname="hyperbolic_FV_discretization_godunov_order0_euler/7" />
+  </testsuite>
+</testsuites>
