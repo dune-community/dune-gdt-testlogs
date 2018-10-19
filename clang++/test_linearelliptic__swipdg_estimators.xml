@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="3" failures="0" disabled="0" errors="0" timestamp="2018-10-19T13:08:09" time="46.328" name="AllTests">
+  <testsuite name="linearelliptic_SWIPDG_estimators_Dune__GDT__LinearElliptic__AO2013TestCase_AluSimplex2dGridType__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="3.192">
+    <testcase name="eoc_study" status="run" time="3.192" classname="linearelliptic_SWIPDG_estimators_Dune__GDT__LinearElliptic__AO2013TestCase_AluSimplex2dGridType__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_estimators_Dune__GDT__LinearElliptic__ESV2007TestCase_AluSimplex2dGridType__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="4.086">
+    <testcase name="eoc_study" status="run" time="4.086" classname="linearelliptic_SWIPDG_estimators_Dune__GDT__LinearElliptic__ESV2007TestCase_AluSimplex2dGridType__gdt_istl_sparse" />
+  </testsuite>
+  <testsuite name="linearelliptic_SWIPDG_estimators_Dune__GDT__LinearElliptic__Spe10Model1TestCase_AluSimplex2dGridType__gdt_istl_sparse" tests="1" failures="0" disabled="0" errors="0" time="39.047">
+    <testcase name="eoc_study" status="run" time="39.045" classname="linearelliptic_SWIPDG_estimators_Dune__GDT__LinearElliptic__Spe10Model1TestCase_AluSimplex2dGridType__gdt_istl_sparse" />
+  </testsuite>
+</testsuites>
