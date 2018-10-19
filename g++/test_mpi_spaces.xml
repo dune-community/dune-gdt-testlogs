@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="164" failures="0" disabled="0" errors="0" timestamp="2018-10-19T12:29:16" time="63.765" name="AllTests">
+  <testsuite name="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLeafGridViewType__1_" tests="4" failures="0" disabled="0" errors="0" time="0.017">
+    <testcase name="fulfills_interface" status="run" time="0.014" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLeafGridViewType__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.001" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLeafGridViewType__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.001" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLeafGridViewType__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.001" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp1dLeafGridViewType__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__ContinuousLagrangeSpace_AluConform2dLeafGridViewType__1_" tests="4" failures="0" disabled="0" errors="0" time="0.296">
+    <testcase name="fulfills_interface" status="run" time="0.232" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluConform2dLeafGridViewType__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.023" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluConform2dLeafGridViewType__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.019" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluConform2dLeafGridViewType__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.02" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluConform2dLeafGridViewType__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__ContinuousLagrangeSpace_AluConform3dLeafGridViewType__1_" tests="4" failures="0" disabled="0" errors="0" time="6.379">
+    <testcase name="fulfills_interface" status="run" time="6.218" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluConform3dLeafGridViewType__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.14" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluConform3dLeafGridViewType__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.01" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluConform3dLeafGridViewType__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.007" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluConform3dLeafGridViewType__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__ContinuousLagrangeSpace_AluCube2dLeafGridViewType__1_" tests="4" failures="0" disabled="0" errors="0" time="0.282">
+    <testcase name="fulfills_interface" status="run" time="0.187" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluCube2dLeafGridViewType__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.018" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluCube2dLeafGridViewType__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.049" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluCube2dLeafGridViewType__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.027" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluCube2dLeafGridViewType__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__ContinuousLagrangeSpace_AluCube3dLeafGridViewType__1_" tests="4" failures="0" disabled="0" errors="0" time="5.432">
+    <testcase name="fulfills_interface" status="run" time="4.995" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluCube3dLeafGridViewType__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.174" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluCube3dLeafGridViewType__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.124" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluCube3dLeafGridViewType__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.123" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_AluCube3dLeafGridViewType__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLeafGridViewType__1_" tests="4" failures="0" disabled="0" errors="0" time="0.216">
+    <testcase name="fulfills_interface" status="run" time="0.191" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLeafGridViewType__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.01" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLeafGridViewType__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.003" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLeafGridViewType__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.002" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp2dLeafGridViewType__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLeafGridViewType__1_" tests="4" failures="0" disabled="0" errors="0" time="6.37">
+    <testcase name="fulfills_interface" status="run" time="6.204" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLeafGridViewType__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.142" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLeafGridViewType__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.014" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLeafGridViewType__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.01" classname="TestType_Dune__GDT__ContinuousLagrangeSpace_Yasp3dLeafGridViewType__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="0.032">
+    <testcase name="fulfills_interface" status="run" time="0.018" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.004" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.006" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.004" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp1dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="0.404">
+    <testcase name="fulfills_interface" status="run" time="0.322" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.032" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.025" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.024" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluConform2dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="8.782">
+    <testcase name="fulfills_interface" status="run" time="8.696" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.061" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.011" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.013" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluConform3dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="0.21">
+    <testcase name="fulfills_interface" status="run" time="0.155" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.017" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.019" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.018" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluCube2dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="6.204">
+    <testcase name="fulfills_interface" status="run" time="5.911" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.106" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.094" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.092" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_AluCube3dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="0.182">
+    <testcase name="fulfills_interface" status="run" time="0.168" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.008" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.003" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.003" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp2dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" tests="4" failures="0" disabled="0" errors="0" time="6.196">
+    <testcase name="fulfills_interface" status="run" time="6.11" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.061" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.012" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.013" classname="TestType_Dune__GDT__DiscontinuousLagrangeSpace_Yasp3dLeafGridViewType__1__double_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" tests="4" failures="0" disabled="0" errors="0" time="0.008">
+    <testcase name="fulfills_interface" status="run" time="0.005" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.001" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.001" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.001" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" tests="4" failures="0" disabled="0" errors="0" time="0.01">
+    <testcase name="fulfills_interface" status="run" time="0.007" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.001" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.001" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.001" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" tests="4" failures="0" disabled="0" errors="0" time="0.012">
+    <testcase name="fulfills_interface" status="run" time="0.009" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.001" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.001" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.001" classname="TestType_Dune__GDT__FvSpace_Yasp1dLeafGridViewType__double__3_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" tests="4" failures="0" disabled="0" errors="0" time="0.18">
+    <testcase name="fulfills_interface" status="run" time="0.105" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.03" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.017" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.024" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__2_" tests="4" failures="0" disabled="0" errors="0" time="0.161">
+    <testcase name="fulfills_interface" status="run" time="0.099" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__2_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.021" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__2_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.02" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__2_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.021" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__3_" tests="4" failures="0" disabled="0" errors="0" time="0.175">
+    <testcase name="fulfills_interface" status="run" time="0.118" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__3_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.02" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__3_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.018" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__3_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.019" classname="TestType_Dune__GDT__FvSpace_AluConform2dLeafGridViewType__double__3_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" tests="4" failures="0" disabled="0" errors="0" time="0.438">
+    <testcase name="fulfills_interface" status="run" time="0.399" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.019" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.01" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.009" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__2_" tests="4" failures="0" disabled="0" errors="0" time="0.557">
+    <testcase name="fulfills_interface" status="run" time="0.513" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__2_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.024" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__2_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.01" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__2_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.009" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__3_" tests="4" failures="0" disabled="0" errors="0" time="0.76">
+    <testcase name="fulfills_interface" status="run" time="0.715" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__3_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.024" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__3_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.011" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__3_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.009" classname="TestType_Dune__GDT__FvSpace_AluConform3dLeafGridViewType__double__3_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" tests="4" failures="0" disabled="0" errors="0" time="0.115">
+    <testcase name="fulfills_interface" status="run" time="0.06" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.018" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.019" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.018" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__2_" tests="4" failures="0" disabled="0" errors="0" time="0.127">
+    <testcase name="fulfills_interface" status="run" time="0.069" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__2_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.019" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__2_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.018" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__2_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.021" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__3_" tests="4" failures="0" disabled="0" errors="0" time="0.131">
+    <testcase name="fulfills_interface" status="run" time="0.078" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__3_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.017" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__3_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.018" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__3_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.017" classname="TestType_Dune__GDT__FvSpace_AluCube2dLeafGridViewType__double__3_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" tests="4" failures="0" disabled="0" errors="0" time="0.709">
+    <testcase name="fulfills_interface" status="run" time="0.43" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.096" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.092" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.091" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__2_" tests="4" failures="0" disabled="0" errors="0" time="0.821">
+    <testcase name="fulfills_interface" status="run" time="0.54" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__2_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.094" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__2_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.094" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__2_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.092" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__3_" tests="4" failures="0" disabled="0" errors="0" time="1.035">
+    <testcase name="fulfills_interface" status="run" time="0.753" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__3_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.099" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__3_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.094" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__3_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.089" classname="TestType_Dune__GDT__FvSpace_AluCube3dLeafGridViewType__double__3_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" tests="4" failures="0" disabled="0" errors="0" time="0.049">
+    <testcase name="fulfills_interface" status="run" time="0.041" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.003" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.003" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.002" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" tests="4" failures="0" disabled="0" errors="0" time="0.069">
+    <testcase name="fulfills_interface" status="run" time="0.06" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.004" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.002" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.002" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" tests="4" failures="0" disabled="0" errors="0" time="0.087">
+    <testcase name="fulfills_interface" status="run" time="0.077" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.005" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.003" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.002" classname="TestType_Dune__GDT__FvSpace_Yasp2dLeafGridViewType__double__3_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" tests="4" failures="0" disabled="0" errors="0" time="0.447">
+    <testcase name="fulfills_interface" status="run" time="0.411" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.018" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.009" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.007" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__1_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" tests="4" failures="0" disabled="0" errors="0" time="0.558">
+    <testcase name="fulfills_interface" status="run" time="0.52" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.02" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.01" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.007" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__2_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" tests="4" failures="0" disabled="0" errors="0" time="0.73">
+    <testcase name="fulfills_interface" status="run" time="0.69" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.023" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.009" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.007" classname="TestType_Dune__GDT__FvSpace_Yasp3dLeafGridViewType__double__3_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" tests="4" failures="0" disabled="0" errors="0" time="0.317">
+    <testcase name="fulfills_interface" status="run" time="0.252" classname="TestType_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.023" classname="TestType_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.021" classname="TestType_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.02" classname="TestType_Dune__GDT__RaviartThomasSpace_AluConform2dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" tests="4" failures="0" disabled="0" errors="0" time="5.338">
+    <testcase name="fulfills_interface" status="run" time="5.199" classname="TestType_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.082" classname="TestType_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.024" classname="TestType_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.032" classname="TestType_Dune__GDT__RaviartThomasSpace_AluConform3dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" tests="4" failures="0" disabled="0" errors="0" time="0.263">
+    <testcase name="fulfills_interface" status="run" time="0.204" classname="TestType_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.018" classname="TestType_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.02" classname="TestType_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.02" classname="TestType_Dune__GDT__RaviartThomasSpace_AluCube2dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" tests="4" failures="0" disabled="0" errors="0" time="4.063">
+    <testcase name="fulfills_interface" status="run" time="3.766" classname="TestType_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.11" classname="TestType_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.091" classname="TestType_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.096" classname="TestType_Dune__GDT__RaviartThomasSpace_AluCube3dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" tests="4" failures="0" disabled="0" errors="0" time="0.266">
+    <testcase name="fulfills_interface" status="run" time="0.243" classname="TestType_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.008" classname="TestType_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.006" classname="TestType_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.008" classname="TestType_Dune__GDT__RaviartThomasSpace_Yasp2dLeafGridViewType__0_" />
+  </testsuite>
+  <testsuite name="TestType_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" tests="4" failures="0" disabled="0" errors="0" time="5.321">
+    <testcase name="fulfills_interface" status="run" time="5.188" classname="TestType_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" />
+    <testcase name="mapper_fulfills_interface" status="run" time="0.08" classname="TestType_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" />
+    <testcase name="basefunctionset_fulfills_interface" status="run" time="0.021" classname="TestType_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" />
+    <testcase name="check_for_correct_copy" status="run" time="0.03" classname="TestType_Dune__GDT__RaviartThomasSpace_Yasp3dLeafGridViewType__0_" />
+  </testsuite>
+</testsuites>
